@@ -1,0 +1,32 @@
+{
+  "stage": "proportion study only",
+  "parts": [
+    {
+      "part": "case_study",
+      "dimensions_mm": [
+        37.0,
+        43.98514175415039,
+        5.5
+      ],
+      "non_manifold_edges": 0
+    },
+    {
+      "part": "dial_study",
+      "dimensions_mm": [
+        32.0,
+        32.0,
+        1.5
+      ],
+      "non_manifold_edges": 0
+    },
+    {
+      "part": "caseback_study",
+      "dimensions_mm": [
+        36.599998474121094,
+        36.599998474121094,
+        1.5
+      ],
+      "non_manifold_edges": 0
+    }
+  ]
+}

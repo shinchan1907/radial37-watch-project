@@ -1,0 +1,292 @@
+[
+  {
+    "path": "project/checks.json",
+    "bytes": 566,
+    "sha256": "0cff41e90b3d4423780c4658e2c9e73d4b7b9e013c70819b96bb63e68c5ddb66"
+  },
+  {
+    "path": "project/DESIGN-NOTES.txt",
+    "bytes": 4521,
+    "sha256": "f10fe086c88a9ba7a5ba1a61ead4a517fbb46cedc36d60cc69f15ed768966334"
+  },
+  {
+    "path": "project/radial37_v2/arched_dial_detail.png",
+    "bytes": 1361972,
+    "sha256": "315de33c008254897552b2220bc1d65e5233e7a29e2f389f429c2474151a378f"
+  },
+  {
+    "path": "project/radial37_v2/caseback_detail.png",
+    "bytes": 984588,
+    "sha256": "ea52be6bf22b663d931854b919a2c139095dafe76a6eb10cce1a8bbf790c84a4"
+  },
+  {
+    "path": "project/radial37_v2/DESIGN-NOTES.txt",
+    "bytes": 4828,
+    "sha256": "5944b1848f54fb11155b2ca19f45b62e1868c6aced8b9dfd6d349160578049a9"
+  },
+  {
+    "path": "project/radial37_v2/geometry-checks.json",
+    "bytes": 2199,
+    "sha256": "23ade89a1ba83c97fd68406a41f781bda394898c62d3dc598596de877936edaf"
+  },
+  {
+    "path": "project/radial37_v2/radial37_v2.blend",
+    "bytes": 2697384,
+    "sha256": "b38cef6a42d1da6937cff2401e1e22f8b4fe5b85dea99c1ed6437417dfb31790"
+  },
+  {
+    "path": "project/radial37_v2/radial37_v2_hero.png",
+    "bytes": 2827408,
+    "sha256": "0613bc24137ec6c781abddb7bc7da29c6f229045eb02e12e5b419479efe7d47c"
+  },
+  {
+    "path": "project/radial37_v2/src/radial37_v2.py",
+    "bytes": 13952,
+    "sha256": "f726255d47fa2622b01f6996da84b68b43b87539290a1624d6277acc20d518ab"
+  },
+  {
+    "path": "project/radial37_v2/STL/arched_dial_v2.stl",
+    "bytes": 3570084,
+    "sha256": "1858810ab891445771ce8b384b8ac424b99bfc4293dc14ece667a5c64350961d"
+  },
+  {
+    "path": "project/radial37_v2/STL/case_v2.stl",
+    "bytes": 444084,
+    "sha256": "405d0ffd797b7e3694bcb6f59188871b0dc4d7b1f39db43eb57c4202a584a21e"
+  },
+  {
+    "path": "project/radial37_v2/STL/caseback_v2.stl",
+    "bytes": 335884,
+    "sha256": "f2bf239d8e4b468b446b1f4b6ecfd53aa59e477ef8da6916f90588dfc20ac80a"
+  },
+  {
+    "path": "project/radial37_v3/DO_NOT_PRINT_UNFINISHED.txt",
+    "bytes": 132,
+    "sha256": "9bbd52cc927836a6c9c06c00db3ccea0d2a9600dbd1a91fdcc7bba0c47a3d101"
+  },
+  {
+    "path": "project/radial37_v3/geometry-checks.json",
+    "bytes": 2238,
+    "sha256": "be977c21fb125de220349687f2a1526d63e787e556d3348bf70ec1677a22888c"
+  },
+  {
+    "path": "project/radial37_v3/internal-clearance-checks.json",
+    "bytes": 979,
+    "sha256": "a5622724f1cb6ad5cbea15c0f9ae8c217edb3a049ca7ebb26abec488c626117c"
+  },
+  {
+    "path": "project/radial37_v3/radial37_v3.blend",
+    "bytes": 7884200,
+    "sha256": "b4b55b6b2eebdbc78b0d7d80d83c253a6a988792f015974deed94c811531abd1"
+  },
+  {
+    "path": "project/radial37_v3/reference/Miyota_5Y20_manufacturer_drawing.pdf",
+    "bytes": 125871,
+    "sha256": "91aeef929406f1956fe852a329f269feb65a609d24643075eb8cc1f4702dd297"
+  },
+  {
+    "path": "project/radial37_v3/reference/Miyota_5Y20_manufacturer_spec.pdf",
+    "bytes": 67800,
+    "sha256": "57016171245840627a8ec0c306aac5eaa9cb8d66020024b49713776fd0e91213"
+  },
+  {
+    "path": "project/radial37_v3/src/parameters.py",
+    "bytes": 1139,
+    "sha256": "961b0b610621efdbfa85e25bccbe4ee94006d234e77b85f1f924d4a7521630b9"
+  },
+  {
+    "path": "project/radial37_v3/src/radial37_v3.py",
+    "bytes": 16072,
+    "sha256": "f6d17a9165498119681fecf4ac9da6608347a6b6b84be6b2b3255eafff63c015"
+  },
+  {
+    "path": "project/radial37_v3/STL/back_FINISHED_reference.stl",
+    "bytes": 3140334,
+    "sha256": "f5c45116a0b584e04757ef7932e42578537bad711cfc97f759e62c13ec00329c"
+  },
+  {
+    "path": "project/radial37_v3/STL/back_PRINT_STOCK_HOLD.stl",
+    "bytes": 84,
+    "sha256": "4fea5e6a3ec5f5474a26d858bc77b6d7bd3ab864ea02d988683fdc648602b248"
+  },
+  {
+    "path": "project/radial37_v3/STL/carrier_POLYMER_fit.stl",
+    "bytes": 84,
+    "sha256": "4fea5e6a3ec5f5474a26d858bc77b6d7bd3ab864ea02d988683fdc648602b248"
+  },
+  {
+    "path": "project/radial37_v3/STL/case_FINISHED_reference.stl",
+    "bytes": 2951684,
+    "sha256": "bb99d086805cb7a5c8c88692a09f3856519177f629cadf1de3e525d87057d4a0"
+  },
+  {
+    "path": "project/radial37_v3/STL/case_PRINT_STOCK_HOLD.stl",
+    "bytes": 84,
+    "sha256": "4fea5e6a3ec5f5474a26d858bc77b6d7bd3ab864ea02d988683fdc648602b248"
+  },
+  {
+    "path": "project/radial37_v3/STL/center_dial_BRASS_0p4.stl",
+    "bytes": 116484,
+    "sha256": "0b4e3c2584195d35c16d80b421205384456821ece2474216bdae9587185574de"
+  },
+  {
+    "path": "project/radial37_v3/STL/chapter_fine_VENDOR_REVIEW.stl",
+    "bytes": 3415184,
+    "sha256": "29cf19dfba7cc2730d2c11041fe515f1bcf3baa97b26c96213595cece5627d8c"
+  },
+  {
+    "path": "project/src/blender_study.py",
+    "bytes": 9161,
+    "sha256": "58a41eed41e0a53fc64850cf2f3d54db473188fdc3838db6846ee9ec21a16444"
+  },
+  {
+    "path": "project/src/case_study.py",
+    "bytes": 220,
+    "sha256": "dbb01370319ebb1a2af013dcd6bf2ac443eb09daea4fed8c1c08f55adbdb6866"
+  },
+  {
+    "path": "project/src/caseback_study.py",
+    "bytes": 236,
+    "sha256": "18a3aa0378b84ec589bd62d4153a3ad749a1e7d9bb4d4e663d335d4b88a67ef1"
+  },
+  {
+    "path": "project/src/dial_study.py",
+    "bytes": 220,
+    "sha256": "513e949e13db02311bc1a93553a37520101850c8719eb2f9d9378a52a13613c7"
+  },
+  {
+    "path": "project/src/geometry.py",
+    "bytes": 1107,
+    "sha256": "b3f413fb395eb81977c3a581d20fb235b9abcadf75a512000ab9d18d3a2fdaee"
+  },
+  {
+    "path": "project/src/watch_study.py",
+    "bytes": 335,
+    "sha256": "18a0d0056b45206e0a0cde2dbdee975457f534a5f423a476d0287f62db42e922"
+  },
+  {
+    "path": "project/STL/case_study.stl",
+    "bytes": 395884,
+    "sha256": "cfcfe8422ae30f2850a82c1728b37db08bec0a1fbab6adea319ddd4fd5e4ef22"
+  },
+  {
+    "path": "project/STL/caseback_study.stl",
+    "bytes": 153484,
+    "sha256": "cbdeef220df1502c293b10a0c54397841e6ccb0fc880d601a416a829bcb3e838"
+  },
+  {
+    "path": "project/STL/dial_study.stl",
+    "bytes": 38284,
+    "sha256": "faa751862ea6be5a41d7744ded202dc327c6352c6879af1311b306be01685782"
+  },
+  {
+    "path": "project/watch_proportion_review.png",
+    "bytes": 1108136,
+    "sha256": "171f5aad00b456ecf2d28ed1a99b2f10ff80b098812000de26390195007a9ac9"
+  },
+  {
+    "path": "project/watch_study.blend",
+    "bytes": 434423,
+    "sha256": "795f051635b155d0d5b0db6fc69e54c3d9d72629abe88cb8fdef9274a1db08a2"
+  },
+  {
+    "path": "README_FIRST.txt",
+    "bytes": 4710,
+    "sha256": "5904cff271d86a2a019892549c8a86886b56c3564d9066a059dd3e985edbb038"
+  },
+  {
+    "path": "references/codex-clipboard-03d31ccb-bd36-4999-a9f2-d3fb761a0efe.png",
+    "bytes": 1106387,
+    "sha256": "208f9eb00205f53a82d162eabbceb015179b88fbba843d3e67078d4517540fec"
+  },
+  {
+    "path": "references/codex-clipboard-052c158c-9be8-4ca5-83b2-985a2c802d77.png",
+    "bytes": 882096,
+    "sha256": "f0423dbff8fb5e85041439acd1498828c0ab7498d98864523d9085bf5fca58e7"
+  },
+  {
+    "path": "references/codex-clipboard-0dd29295-ed91-425b-844c-fa133ca64016.png",
+    "bytes": 741389,
+    "sha256": "b09aaa0f4f3729676808472919db3c17b343726e9ac6f7a3e0662683910f4a04"
+  },
+  {
+    "path": "references/codex-clipboard-1ccca239-da60-4337-8bea-5843e8afc57f.png",
+    "bytes": 586846,
+    "sha256": "4467c03b2d8db7b25ef23e33c49ae3f5bc23b292ed256b9519162a8685479bdc"
+  },
+  {
+    "path": "references/codex-clipboard-1dc63756-f56c-447f-afe0-048dad88e9f2.png",
+    "bytes": 751196,
+    "sha256": "7f8099488a1e8144b558bddb8412cdea7ace234793a33f250d992d50de9639c1"
+  },
+  {
+    "path": "references/codex-clipboard-222a6f08-6b6c-4eb0-9c8d-c617d9c8b828.png",
+    "bytes": 1270419,
+    "sha256": "807d10cb2c2ab0c1088677cf2d5108bc72caa3f7cbe9f829ce0983d168ed9773"
+  },
+  {
+    "path": "references/codex-clipboard-381497b6-2e6f-45e6-9489-d93a8f3f9fc6.png",
+    "bytes": 720444,
+    "sha256": "acdaf91906f2d3d50a00683bd5e5ee67d4c58feb20cc26ccd7b45aff86da6a45"
+  },
+  {
+    "path": "references/codex-clipboard-5dcb2dab-ec05-425b-9fe1-02b5fedd3221.png",
+    "bytes": 1061607,
+    "sha256": "61cb190e9acc318294183eed4a1738db2a94e526a540077f03fe79cf068ef173"
+  },
+  {
+    "path": "references/codex-clipboard-60182123-31a2-48fa-afcc-5d2ae5be2292.png",
+    "bytes": 682337,
+    "sha256": "6a95de4ae0e653180c9b85cd8f6ebbf5798bffec62bd1e0da1c37b00a15885b4"
+  },
+  {
+    "path": "references/codex-clipboard-6384fdfe-d899-4c52-b724-94ba8f42e149.png",
+    "bytes": 360504,
+    "sha256": "77dd033907564dbc25dda2725f676901a9a713354124d391a539e023cba59094"
+  },
+  {
+    "path": "references/codex-clipboard-a7661d5f-61b8-45ef-98e8-0fe0ecd0d6ac.png",
+    "bytes": 460475,
+    "sha256": "a3f3f0575151aa5ccaadc094f5a8a931e20090f5d97c1b7f1ee40ffd9977003b"
+  },
+  {
+    "path": "references/codex-clipboard-ab170fc7-d2cd-476a-b835-045d3535ebe7.png",
+    "bytes": 1270419,
+    "sha256": "807d10cb2c2ab0c1088677cf2d5108bc72caa3f7cbe9f829ce0983d168ed9773"
+  },
+  {
+    "path": "references/codex-clipboard-c14cfc29-c181-4dc6-a060-5f82b241edc2.png",
+    "bytes": 682337,
+    "sha256": "6a95de4ae0e653180c9b85cd8f6ebbf5798bffec62bd1e0da1c37b00a15885b4"
+  },
+  {
+    "path": "references/codex-clipboard-c37fe5eb-8790-4814-8976-c1556e44f278.png",
+    "bytes": 682337,
+    "sha256": "6a95de4ae0e653180c9b85cd8f6ebbf5798bffec62bd1e0da1c37b00a15885b4"
+  },
+  {
+    "path": "references/codex-clipboard-c8993c36-11a1-4f03-94dd-4b7c1d877b8a.png",
+    "bytes": 810090,
+    "sha256": "47a2f7c65b34c787f409883f7087d2e5723d3243f1258874d5bfc9d8632dcef6"
+  },
+  {
+    "path": "references/codex-clipboard-d0909f0c-430f-4659-a755-13a916733ffa.png",
+    "bytes": 263736,
+    "sha256": "506bd0c06c43f20161e06405244ce719bf246cf68cb85e7ee01baa77ddc8dbbb"
+  },
+  {
+    "path": "references/codex-clipboard-e0c60731-50bb-4ddf-8617-2847c68fb44e.png",
+    "bytes": 708522,
+    "sha256": "73e7614072d1eb98a5445fbee44c894fdcb4aac2c1eed1428b737805b3fe3139"
+  },
+  {
+    "path": "references/codex-clipboard-f41854ac-3124-4d46-a7b8-e61d1f3c01a0.png",
+    "bytes": 1372014,
+    "sha256": "7a6a7310d7757c0afb42b28e35f0d57e7bee07c094373cded2e1b30f0cf7ff87"
+  },
+  {
+    "path": "references/SOURCES.txt",
+    "bytes": 379,
+    "sha256": "529393e91f798195f37107365b554ee20531082b18e362295e9e3a867eef487b"
+  }
+]

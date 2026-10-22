@@ -1,0 +1,41 @@
+{
+  "note": "Nominal conservative envelopes only; pending component and vendor tolerances",
+  "checks": [
+    {
+      "name": "stem_vs_arches",
+      "interference_mm3": 0,
+      "pass": true
+    },
+    {
+      "name": "stem_vs_center_dial",
+      "interference_mm3": 0,
+      "pass": true
+    },
+    {
+      "name": "stem_vs_carrier",
+      "interference_mm3": 0,
+      "pass": true
+    },
+    {
+      "name": "hands_vs_arches",
+      "interference_mm3": 0,
+      "pass": true
+    },
+    {
+      "name": "hands_vs_center_dial",
+      "interference_mm3": 0,
+      "pass": true
+    },
+    {
+      "name": "carrier_vs_arches",
+      "interference_mm3": 0,
+      "pass": true
+    },
+    {
+      "name": "movement_vs_carrier",
+      "interference_mm3": 0,
+      "pass": true
+    }
+  ],
+  "closure_status": "Awaiting clarification: quarter-turn bayonet versus previously selected coarse threaded screw-down; fine machined thread is rejected."
+}

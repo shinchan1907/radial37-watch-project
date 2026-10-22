@@ -1,0 +1,88 @@
+{
+  "units": "mm",
+  "stage": "V2 development, not for manufacture",
+  "parts": [
+    {
+      "name": "case_v2",
+      "dimensions_mm": [
+        37.0,
+        44.000003814697266,
+        5.899999618530273
+      ],
+      "nonmanifold_edges": 0,
+      "volume_mm3": 1314.542000360334,
+      "connected_components": 1
+    },
+    {
+      "name": "arched_dial_v2",
+      "dimensions_mm": [
+        32.400001525878906,
+        32.400001525878906,
+        3.9000000953674316
+      ],
+      "nonmanifold_edges": 0,
+      "volume_mm3": 793.7639645611467,
+      "connected_components": 1
+    },
+    {
+      "name": "caseback_v2",
+      "dimensions_mm": [
+        36.20000076293945,
+        36.20000076293945,
+        2.299999952316284
+      ],
+      "nonmanifold_edges": 0,
+      "volume_mm3": 1894.1386007944122,
+      "connected_components": 1
+    }
+  ],
+  "nominal_rib_width_mm": 0.62,
+  "web_vertical_thickness_mm": 1.05,
+  "reference": "https://altapowderdog.wixsite.com/my-site/watches",
+  "unverified": [
+    "movement fit and carrier",
+    "dial interface thickness",
+    "crystal gasket fit",
+    "back retention and sealing",
+    "fine-rib vendor acceptance",
+    "watertightness of assembled watch"
+  ],
+  "nominal_minimum_ring_wall_mm": 1.55,
+  "approximate_minimum_inner_slot_mm": 0.1,
+  "cleanup_tolerance_mm": 0.0001,
+  "saved_stl_checks": [
+    {
+      "file": "case_v2.stl",
+      "dimensions_mm": [
+        37.0,
+        44.0,
+        5.899999618530273
+      ],
+      "nonmanifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 1314.542000360334
+    },
+    {
+      "file": "arched_dial_v2.stl",
+      "dimensions_mm": [
+        32.400001525878906,
+        32.400001525878906,
+        3.9000000953674316
+      ],
+      "nonmanifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 793.7639645611467
+    },
+    {
+      "file": "caseback_v2.stl",
+      "dimensions_mm": [
+        36.20000076293945,
+        36.20000076293945,
+        2.299999952316284
+      ],
+      "nonmanifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 1894.1386012870626
+    }
+  ]
+}

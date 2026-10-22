@@ -1,0 +1,82 @@
+RADIAL 37 — QUARTZ WATCH / PHASE 1 PROPORTION STUDY
+2026-10-21
+
+STATUS: NOT FOR MANUFACTURING OR ORDERING
+
+User brief: 37 mm outside diameter, light/slim/inexpensive quartz movement,
+domed crystal, radial metallic dial inspired by the provided images, matching
+caseback, eventual JLC3DP stainless steel or titanium manufacture.
+
+Created in Blender through the official Blender MCP bridge.
+watch_study.blend contains a separate study scene and retains the startup scene.
+The existing Blender scenes were not deleted.
+
+DIMENSIONS (mm)
+Case outside diameter: 37.0
+Lug-to-lug design target: 44.0; beveled mesh measures 43.985
+Strap gap: 18.0
+Raw cylindrical opening: 33.6 (a study opening, not a released gasket fit)
+Case shell: z=1.5 to 7.0; minimum nominal radial wall 1.7 before edge bevel
+Dial blank: diameter 32.0, thickness 1.5; z=3.8 to 5.3
+Caseback blank: diameter 36.6, thickness 1.5; z=0 to 1.5
+Crystal reference envelope: diameter 33; bottom z=6.6, edge top z=7.9,
+apex z=9.1; approximate dome profile. Hidden to expose the dial in the render.
+
+CANDIDATE COMPONENTS / RESEARCH
+Miyota 2035 standard quartz: manufacturer specifies 3.15 mm height, 3 hands,
+and 3-year battery life. Candidate only, not yet fitted in this model.
+https://miyotamovement.com/product/2035/
+step.parts search 'Miyota 2035' returned no CAD models. No vendor movement
+geometry is represented by the study.
+
+Cousins G53073: listing specifies diameter 33.00, H2.50 x T1.30, domed sapphire
+with flat bottom. Candidate envelope only; availability, edge geometry and
+gasket selection must be verified before the crystal seat is frozen.
+https://www.cousinsuk.com/sku/details/gucci/g53073?skuId=2133855
+
+WR Accessories also lists 33 mm double-domed mineral variants, but these are
+taller: no-AR listing says 4.6 mm overall and 3.0 mm glass thickness. These
+would require a different stack and are NOT interchangeable with this envelope.
+https://wraccessories.com/products/33mm-double-domed-wide-chamfer-mineral-crystal-no-ar-coating
+
+JLC3DP lists SLM 316L and Titanium TC4. Its published metal wall guidance is
+1.5 mm in this size range, and it recommends tapping small metal threads.
+The guide also warns of substantial errors in internal openings. Plan for
+machining/reaming gasket seats, spring-bar and crown bores, and seal faces.
+https://jlc3dp.com/help/article/3d-printing-design-guideline
+
+VISUAL REFERENCES / NOT PHYSICAL PARTS
+The 60-ray dial and 12 major indices are a shader, NOT printable relief yet.
+Hands and crown are visual stand-ins, not movement-compatible purchased parts.
+The dome is an approximate visual envelope, not vendor optical geometry.
+No material performance, final mass, waterproofness or movement fit is claimed.
+
+NEXT DESIGN STAGES
+1. Confirm proportions with user.
+2. Obtain/check 2035 casing and dial drawings; match inexpensive hands and crown.
+3. Design polymer movement carrier with battery and stem-release access.
+4. Resolve the thin central dial interface: a solid 1.5 mm printed blank cannot
+   simply replace a conventional thin dial. Consider a thin brass center/carrier
+   and metal radial chapter ring, or a recessed/machined one-piece dial.
+5. Add printable radial relief below the hand sweep and confirm JLC acceptance
+   of feature widths. Do not assume fine spokes satisfy general wall guidance.
+6. Add crystal gasket/seat, crown tube, spring bars, screwed back retention,
+   and gasket. Avoid relying on as-printed microthreads or a snap-fit seal.
+7. Export separate finish-machining/print variants and drawings with tolerances;
+   run final assembly interference and metal DfAM checks.
+
+FILES / CHECKS
+STL/case_study.stl, STL/dial_study.stl, STL/caseback_study.stl are design
+studies only. checks.json records Blender dimensions and manifold edge checks.
+Parametric CAD sources in src/*_study.py and geometry.py could not generate
+STEP because Windows Application Control blocked the OpenCASCADE native DLL.
+The executable Blender source is src/blender_study.py. CAD source sketches
+are not validated substitutes for the Blender meshes.
+
+VISUAL REVIEW
+Reviewed a Blender assembly render and a separated three-part render showing
+the case shell, dial blank and caseback blank. Corrected lug intrusion into
+the raw cylindrical bore and rechecked manifold edges (zero).
+cadgen STL snapshot was attempted but its Chromium launch timed out; native
+Blender rendering was used for visual review instead. CAD Viewer opened the
+three STL studies successfully. No STEP artifact was generated or checked.

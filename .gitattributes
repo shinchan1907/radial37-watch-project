@@ -1,0 +1,12 @@
+*.py text eol=lf
+*.md text eol=lf
+*.stl binary
+*.blend binary
+*.png binary
+*.jpg binary
+*.pdf binary
+# Preserve checksummed historical files byte-for-byte
+/MANIFEST.json -text
+/README_FIRST.txt -text
+/project/** -text
+/references/** -text

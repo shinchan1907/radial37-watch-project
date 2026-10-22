@@ -1,0 +1,9 @@
+Inspiration: Carter Hurd watch project
+https://altapowderdog.wixsite.com/my-site/watches
+Movement manufacturer:
+https://miyotamovement.com/product/5Y20/
+Manufacturing guideline reference:
+https://jlc3dp.com/help/article/3d-printing-design-guideline
+These are reference sources, not a purchasing or manufacturing approval.
+
+All 18 supplied reference images are included.

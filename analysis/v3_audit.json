@@ -1,0 +1,317 @@
+{
+  "file": "project/radial37_v3/radial37_v3.blend",
+  "unit_system": "METRIC",
+  "scale_length": 0.0010000000474974513,
+  "objects": [
+    {
+      "name": "V3 CASE | finished reference, 37mm",
+      "dimensions_mm": [
+        36.994736,
+        44.0,
+        4.181286
+      ],
+      "vertices": 29253,
+      "faces": 59032,
+      "nonmanifold_edges": 809,
+      "boundary_edges": 189,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 PRINT STOCK | case, machining required",
+      "dimensions_mm": [
+        37.0,
+        44.0,
+        4.181286
+      ],
+      "vertices": 6394,
+      "faces": 12739,
+      "nonmanifold_edges": 101,
+      "boundary_edges": 76,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "V3 BACK | finished threaded, no screws",
+      "dimensions_mm": [
+        35.799999,
+        35.799999,
+        2.45
+      ],
+      "vertices": 23634,
+      "faces": 62805,
+      "nonmanifold_edges": 24670,
+      "boundary_edges": 8,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 PRINT STOCK | back, machining required",
+      "dimensions_mm": [
+        36.200001,
+        36.200001,
+        3.05
+      ],
+      "vertices": 3840,
+      "faces": 7676,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "V3 CENTER DIAL | brass 0.40mm",
+      "dimensions_mm": [
+        18.5,
+        18.5,
+        1.7
+      ],
+      "vertices": 1164,
+      "faces": 2328,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 5Y20 | conservative casing envelope",
+      "dimensions_mm": [
+        13.0,
+        15.75,
+        2.54
+      ],
+      "vertices": 441,
+      "faces": 226,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "V3 CARRIER | polymer fit prototype",
+      "dimensions_mm": [
+        28.799999,
+        30.25,
+        2.3
+      ],
+      "vertices": 509,
+      "faces": 1014,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "V3 STEM | physical .70 envelope",
+      "dimensions_mm": [
+        0.7,
+        0.7,
+        13.6
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "CHECK | stem tolerance swept envelope",
+      "dimensions_mm": [
+        1.1,
+        1.1,
+        13.1
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "CHECK | rotating hands envelope",
+      "dimensions_mm": [
+        28.0,
+        28.0,
+        0.43
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "V3 CRYSTAL | 33mm H4.30, provisional inner",
+      "dimensions_mm": [
+        33.0,
+        33.0,
+        4.3
+      ],
+      "vertices": 12674,
+      "faces": 12864,
+      "nonmanifold_edges": 1,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "V3 BACK GASKET | 34x0.6 envelope",
+      "dimensions_mm": [
+        35.399998,
+        35.399998,
+        0.45
+      ],
+      "vertices": 4608,
+      "faces": 4608,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "V3 CRYSTAL GASKET | provisional",
+      "dimensions_mm": [
+        33.599998,
+        33.599998,
+        0.95
+      ],
+      "vertices": 768,
+      "faces": 768,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 CROWN TUBE | provisional 1.8 OD",
+      "dimensions_mm": [
+        1.8,
+        1.8,
+        2.8
+      ],
+      "vertices": 384,
+      "faces": 196,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 CROWN | fluted reference",
+      "dimensions_mm": [
+        3.7,
+        3.7,
+        2.0
+      ],
+      "vertices": 3936,
+      "faces": 2354,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 HOUR HAND | envelope",
+      "dimensions_mm": [
+        0.7,
+        10.183197,
+        0.12
+      ],
+      "vertices": 66,
+      "faces": 61,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 HOUR HAND | envelope red tip",
+      "dimensions_mm": [
+        0.42,
+        1.15,
+        0.0
+      ],
+      "vertices": 4,
+      "faces": 1,
+      "nonmanifold_edges": 4,
+      "boundary_edges": 4,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 MINUTE HAND | envelope",
+      "dimensions_mm": [
+        0.5,
+        14.582832,
+        0.12
+      ],
+      "vertices": 66,
+      "faces": 61,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 MINUTE HAND | envelope red tip",
+      "dimensions_mm": [
+        0.3,
+        1.150001,
+        0.0
+      ],
+      "vertices": 4,
+      "faces": 1,
+      "nonmanifold_edges": 4,
+      "boundary_edges": 4,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V3 HAND HUB",
+      "dimensions_mm": [
+        1.3,
+        1.3,
+        0.34
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Area.006",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Area.007",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Area.008",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Camera.003",
+      "type": "CAMERA"
+    },
+    {
+      "name": "V3 ARCHES | fine-detail metal chapter",
+      "dimensions_mm": [
+        31.4,
+        31.4,
+        2.78
+      ],
+      "vertices": 34028,
+      "faces": 68296,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    }
+  ]
+}

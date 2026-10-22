@@ -1,0 +1,499 @@
+{
+  "file": "project/radial37_v2/radial37_v2.blend",
+  "unit_system": "METRIC",
+  "scale_length": 0.0010000000474974513,
+  "objects": [
+    {
+      "name": "V2 hour hand | reference",
+      "dimensions_mm": [
+        0.825,
+        10.677515,
+        0.12
+      ],
+      "vertices": 66,
+      "faces": 61,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 hour hand | reference | red enamel",
+      "dimensions_mm": [
+        0.57,
+        1.25,
+        0.0
+      ],
+      "vertices": 4,
+      "faces": 1,
+      "nonmanifold_edges": 4,
+      "boundary_edges": 4,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 minute hand | reference",
+      "dimensions_mm": [
+        0.583,
+        14.977056,
+        0.12
+      ],
+      "vertices": 66,
+      "faces": 61,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 minute hand | reference | red enamel",
+      "dimensions_mm": [
+        0.4028,
+        1.25,
+        0.0
+      ],
+      "vertices": 4,
+      "faces": 1,
+      "nonmanifold_edges": 4,
+      "boundary_edges": 4,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 hand cap",
+      "dimensions_mm": [
+        1.44,
+        1.44,
+        0.32
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 hand pin",
+      "dimensions_mm": [
+        0.44,
+        0.44,
+        0.33
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 fluted crown | reference",
+      "dimensions_mm": [
+        2.449999,
+        4.08,
+        4.08
+      ],
+      "vertices": 384,
+      "faces": 290,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 crystal | 33mm envelope, not supplier geometry",
+      "dimensions_mm": [
+        33.0,
+        33.0,
+        2.5
+      ],
+      "vertices": 8449,
+      "faces": 8449,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "V2 oxblood strap | visual",
+      "dimensions_mm": [
+        18.0,
+        32.200001,
+        5.031847
+      ],
+      "vertices": 212,
+      "faces": 210,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.001",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.002",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.003",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.004",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.005",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.006",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.007",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 oxblood strap | visual.001",
+      "dimensions_mm": [
+        18.0,
+        32.200001,
+        5.031847
+      ],
+      "vertices": 212,
+      "faces": 210,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.008",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.009",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.010",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.011",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.012",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.013",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.014",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 saddle stitch.015",
+      "dimensions_mm": [
+        0.48,
+        0.96,
+        0.24
+      ],
+      "vertices": 62,
+      "faces": 72,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Plane",
+      "dimensions_mm": [
+        300.0,
+        300.0,
+        0.0
+      ],
+      "vertices": 4,
+      "faces": 1,
+      "nonmanifold_edges": 4,
+      "boundary_edges": 4,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Area.003",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Area.004",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Area.005",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Camera.002",
+      "type": "CAMERA"
+    },
+    {
+      "name": "V2 CASE | sculpted 37mm",
+      "dimensions_mm": [
+        37.0,
+        44.0,
+        5.9
+      ],
+      "vertices": 4430,
+      "faces": 8880,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 DIAL | real 60 arched webs",
+      "dimensions_mm": [
+        32.400002,
+        32.400002,
+        3.9
+      ],
+      "vertices": 35580,
+      "faces": 71400,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "V2 CASEBACK | stepped development",
+      "dimensions_mm": [
+        36.200001,
+        36.200001,
+        2.3
+      ],
+      "vertices": 3352,
+      "faces": 6716,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Back screw | visual only",
+      "dimensions_mm": [
+        2.44,
+        2.44,
+        0.3
+      ],
+      "vertices": 768,
+      "faces": 674,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Back screw | visual only.001",
+      "dimensions_mm": [
+        2.44,
+        2.44,
+        0.3
+      ],
+      "vertices": 768,
+      "faces": 674,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Back screw | visual only.002",
+      "dimensions_mm": [
+        2.44,
+        2.44,
+        0.3
+      ],
+      "vertices": 768,
+      "faces": 674,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Back screw | visual only.003",
+      "dimensions_mm": [
+        2.44,
+        2.44,
+        0.3
+      ],
+      "vertices": 768,
+      "faces": 674,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    }
+  ]
+}

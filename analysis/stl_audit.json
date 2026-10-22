@@ -1,0 +1,249 @@
+[
+  {
+    "path": "project/radial37_v2/STL/arched_dial_v2.stl",
+    "objects": [
+      {
+        "name": "arched_dial_v2",
+        "dimensions_mm": [
+          32.400002,
+          32.400002,
+          3.9
+        ],
+        "vertices": 35580,
+        "faces": 71400,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v2/STL/case_v2.stl",
+    "objects": [
+      {
+        "name": "case_v2",
+        "dimensions_mm": [
+          37.0,
+          44.0,
+          5.9
+        ],
+        "vertices": 4430,
+        "faces": 8880,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v2/STL/caseback_v2.stl",
+    "objects": [
+      {
+        "name": "caseback_v2",
+        "dimensions_mm": [
+          36.200001,
+          36.200001,
+          2.3
+        ],
+        "vertices": 3352,
+        "faces": 6716,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v3/STL/back_FINISHED_reference.stl",
+    "objects": [
+      {
+        "name": "back_FINISHED_reference",
+        "dimensions_mm": [
+          35.799999,
+          35.799999,
+          2.45
+        ],
+        "vertices": 23631,
+        "faces": 47516,
+        "nonmanifold_edges": 334,
+        "boundary_edges": 10,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v3/STL/back_PRINT_STOCK_HOLD.stl",
+    "objects": [
+      {
+        "name": "back_PRINT_STOCK_HOLD",
+        "dimensions_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "vertices": 0,
+        "faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v3/STL/carrier_POLYMER_fit.stl",
+    "objects": [
+      {
+        "name": "carrier_POLYMER_fit",
+        "dimensions_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "vertices": 0,
+        "faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v3/STL/case_FINISHED_reference.stl",
+    "objects": [
+      {
+        "name": "case_FINISHED_reference",
+        "dimensions_mm": [
+          36.994736,
+          44.0,
+          4.181286
+        ],
+        "vertices": 29249,
+        "faces": 59025,
+        "nonmanifold_edges": 791,
+        "boundary_edges": 192,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v3/STL/case_PRINT_STOCK_HOLD.stl",
+    "objects": [
+      {
+        "name": "case_PRINT_STOCK_HOLD",
+        "dimensions_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "vertices": 0,
+        "faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v3/STL/center_dial_BRASS_0p4.stl",
+    "objects": [
+      {
+        "name": "center_dial_BRASS_0p4",
+        "dimensions_mm": [
+          18.5,
+          18.5,
+          1.7
+        ],
+        "vertices": 1164,
+        "faces": 2328,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/radial37_v3/STL/chapter_fine_VENDOR_REVIEW.stl",
+    "objects": [
+      {
+        "name": "chapter_fine_VENDOR_REVIEW",
+        "dimensions_mm": [
+          31.4,
+          31.4,
+          2.78
+        ],
+        "vertices": 34031,
+        "faces": 68302,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/STL/case_study.stl",
+    "objects": [
+      {
+        "name": "case_study",
+        "dimensions_mm": [
+          37.0,
+          43.985142,
+          5.5
+        ],
+        "vertices": 3820,
+        "faces": 7639,
+        "nonmanifold_edges": 3,
+        "boundary_edges": 2,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/STL/caseback_study.stl",
+    "objects": [
+      {
+        "name": "caseback_study",
+        "dimensions_mm": [
+          36.599998,
+          36.599998,
+          1.5
+        ],
+        "vertices": 1536,
+        "faces": 3068,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "project/STL/dial_study.stl",
+    "objects": [
+      {
+        "name": "dial_study",
+        "dimensions_mm": [
+          32.0,
+          32.0,
+          1.5
+        ],
+        "vertices": 384,
+        "faces": 764,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  }
+]

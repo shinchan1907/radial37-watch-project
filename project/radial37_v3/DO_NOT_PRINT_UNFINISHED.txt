@@ -1,0 +1,1 @@
+UNFINISHED / SUPERSEDED. Case and back meshes failed checks. Quarter-turn bayonet is not implemented. Read ../../README_FIRST.txt.

@@ -1,0 +1,177 @@
+{
+  "file": "project/watch_study.blend",
+  "unit_system": "METRIC",
+  "scale_length": 0.0010000000474974513,
+  "objects": [
+    {
+      "name": "CASE | 37 OD | 33.6 raw bore | STUDY",
+      "dimensions_mm": [
+        37.0,
+        43.985142,
+        5.5
+      ],
+      "vertices": 3820,
+      "faces": 3750,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "CASEBACK | 36.6 x 1.5 | blank",
+      "dimensions_mm": [
+        36.599998,
+        36.599998,
+        1.5
+      ],
+      "vertices": 1536,
+      "faces": 1346,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "DIAL | 32 x 1.5 blank | fit unresolved",
+      "dimensions_mm": [
+        32.0,
+        32.0,
+        1.5
+      ],
+      "vertices": 384,
+      "faces": 194,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Hour hand | visual only",
+      "dimensions_mm": [
+        0.78,
+        9.5,
+        0.12
+      ],
+      "vertices": 80,
+      "faces": 82,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Hour hand | visual only | red tip",
+      "dimensions_mm": [
+        0.9672,
+        0.9672,
+        0.14
+      ],
+      "vertices": 384,
+      "faces": 194,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Minute hand | visual only",
+      "dimensions_mm": [
+        0.58,
+        13.5,
+        0.12
+      ],
+      "vertices": 80,
+      "faces": 82,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Minute hand | visual only | red tip",
+      "dimensions_mm": [
+        0.7192,
+        0.7192,
+        0.14
+      ],
+      "vertices": 384,
+      "faces": 194,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Hand hub | reference",
+      "dimensions_mm": [
+        1.8,
+        1.8,
+        0.4
+      ],
+      "vertices": 384,
+      "faces": 194,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Crown | reference only",
+      "dimensions_mm": [
+        4.2,
+        4.2,
+        2.3
+      ],
+      "vertices": 1536,
+      "faces": 1346,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "CRYSTAL | 33 low dome | reference envelope",
+      "dimensions_mm": [
+        33.0,
+        33.0,
+        2.5
+      ],
+      "vertices": 4801,
+      "faces": 4801,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0,
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "Studio backdrop",
+      "dimensions_mm": [
+        200.0,
+        200.0,
+        0.0
+      ],
+      "vertices": 4,
+      "faces": 1,
+      "nonmanifold_edges": 4,
+      "boundary_edges": 4,
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "Area",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Area.001",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Area.002",
+      "type": "LIGHT"
+    },
+    {
+      "name": "Camera.001",
+      "type": "CAMERA"
+    }
+  ]
+}

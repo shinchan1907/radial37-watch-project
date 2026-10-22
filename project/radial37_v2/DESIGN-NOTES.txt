@@ -1,0 +1,79 @@
+RADIAL 37 V2 — SCULPTED DEVELOPMENT / NOT FOR METAL ORDER
+
+This revision addresses the supplied Carter Hurd Prototype B photographs:
+https://altapowderdog.wixsite.com/my-site/watches
+
+Reference findings:
+- Prototype B uses a compact movement to allow deep peripheral dial arches.
+- The original illusion uses a high-domed acrylic crystal and edge magnification.
+- The author reports five services rejected the sixty-marker design; specialized
+  DMLS engineering support was required. This is not evidence of JLC acceptance.
+- Image-derived radii, cross sections, wall thickness and lug curves in this
+  adaptation are inferred, not measurements of the original watch.
+
+WHAT CHANGED
+- Sixty actual curved dial webs with open slots, not a radial graphic shader.
+  Twelve hour webs are broader and dip less than the 48 intervening minute webs.
+- An 18.6 mm raised center medallion with a 1.3 mm center through-hole.
+- Dial OD 32.4 mm, vertical envelope 3.9 mm; ring and webs are one connected mesh.
+- A tapered/flared 37 mm case with lower, curved lugs and an 18 mm strap gap.
+- 44 mm overall lug span; case shell body is 5.25 mm high, lugs extend below it.
+- Provisional 1 mm spring-bar drillings and 1.5 mm crown-tube drilling.
+- Matching stepped, removable-back development with four clearance bores and
+  counterbores. No mating threaded bosses or gasket have been released.
+- Real fluting on the crown and tapered hands with rectangular red tips.
+- Leather straps, stitching, hands, crown, screws and crystal are appearance
+  references. They are not approved manufacturing files or purchased-part CAD.
+
+CRYSTAL
+The retained 33 mm low-dome sapphire envelope is approximate:
+flat underside z=6.55, rim top z=7.85, apex z=9.05 mm.
+Lowest caseback face is z=-0.30: approximate overall envelope is 9.35 mm.
+The crystal is hidden in the geometry-review hero so the arches can be assessed.
+The low sapphire dome will not reproduce the original high-acrylic optics exactly.
+Do not freeze a crystal seat from this envelope; obtain real dimensions and gasket.
+
+MOVEMENT
+Miyota 2035 was the initial candidate. A smaller two-hand Miyota 5Y20 is now
+worth evaluating because it leaves more peripheral dial space. Manufacturer:
+https://miyotamovement.com/product/5Y20/
+Published movement height 2.54 mm, 2 hands, four-year battery life.
+Supplier listing for budget context (not a purchase or a verified local price):
+https://www.ofrei.com/page1386.html
+step.parts search for Miyota 5Y20 returned no model. No physical movement CAD
+has been incorporated. The 1.5 mm center medallion still needs a dial-interface
+solution; it cannot be installed as a conventional thin dial without redesign.
+
+MANUFACTURING LIMITS
+Minute web nominal width 0.62 mm; vertical thickness 1.05 mm; fine gaps near
+the inner ends can be approximately 0.10 mm. Outer dial ring width is 0.65 mm.
+These do NOT meet JLC's general 1.5 mm SLM wall guidance. Do not upload these
+STLs expecting an approved steel/titanium order. A wider-rib/fewer-slot variant,
+casting, or written vendor acceptance of fine features is needed.
+The nominal main case-ring wall was increased to at least 1.55 mm before edge
+easing; local lugs, drillings and counterbores still require DfAM review.
+JLC guideline: https://jlc3dp.com/help/article/3d-printing-design-guideline
+
+VALIDATION AND REMAINING WORK
+geometry-checks.json records Blender mesh dimensions, positive volume,
+non-manifold edges and connected-component counts for the three exported parts.
+All dimensions are mm; STL files are unitless and must be imported as mm.
+Only case_v2.stl, arched_dial_v2.stl and caseback_v2.stl are exported.
+These are development meshes, not a finalized kit.
+Movement carrier, hand fit, dial mounting, exact stem center, crown sealing,
+spring-bar retention, back screw engagement and back gasket remain unresolved.
+No assembled watch water resistance or final material strength is claimed.
+STEP generation remains unavailable because Windows Application Control blocks
+the installed CAD kernel. Blender-native geometry was used through Blender MCP.
+The earlier cadgen snapshot browser launch failed; this revision is visually
+reviewed using Blender renders of the assembly, dial and back, plus CAD Viewer.
+
+EXPORTED-FILE AUDIT
+Reimported each saved STL and checked it independently. All three have positive
+volume, one connected component, zero non-manifold edges, and mm dimensions
+matching the authored model. Sub-micron boolean slivers were removed at a
+0.0001 mm vertex-merge tolerance before triangulation/export. The initial case
+STL had tiny four-face edges despite the source check; this cleanup corrected
+the exported artifact. Caseback counterbores were moved inward to avoid open
+notches at the outside rim. These checks do not establish material printability,
+assembly fit or sealing.

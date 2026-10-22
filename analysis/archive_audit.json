@@ -1,0 +1,428 @@
+{
+  "manifest_files": 58,
+  "original_bytes": 46529573,
+  "all_manifest_files_match": true,
+  "integrity": [
+    {
+      "path": "project/checks.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/DESIGN-NOTES.txt",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/arched_dial_detail.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/caseback_detail.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/DESIGN-NOTES.txt",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/geometry-checks.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/radial37_v2.blend",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/radial37_v2_hero.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/src/radial37_v2.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/STL/arched_dial_v2.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/STL/case_v2.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v2/STL/caseback_v2.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/DO_NOT_PRINT_UNFINISHED.txt",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/geometry-checks.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/internal-clearance-checks.json",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/radial37_v3.blend",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/reference/Miyota_5Y20_manufacturer_drawing.pdf",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/reference/Miyota_5Y20_manufacturer_spec.pdf",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/src/parameters.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/src/radial37_v3.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/STL/back_FINISHED_reference.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/STL/back_PRINT_STOCK_HOLD.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/STL/carrier_POLYMER_fit.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/STL/case_FINISHED_reference.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/STL/case_PRINT_STOCK_HOLD.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/STL/center_dial_BRASS_0p4.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/radial37_v3/STL/chapter_fine_VENDOR_REVIEW.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/src/blender_study.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/src/case_study.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/src/caseback_study.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/src/dial_study.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/src/geometry.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/src/watch_study.py",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/STL/case_study.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/STL/caseback_study.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/STL/dial_study.stl",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/watch_proportion_review.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "project/watch_study.blend",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "README_FIRST.txt",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-03d31ccb-bd36-4999-a9f2-d3fb761a0efe.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-052c158c-9be8-4ca5-83b2-985a2c802d77.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-0dd29295-ed91-425b-844c-fa133ca64016.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-1ccca239-da60-4337-8bea-5843e8afc57f.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-1dc63756-f56c-447f-afe0-048dad88e9f2.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-222a6f08-6b6c-4eb0-9c8d-c617d9c8b828.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-381497b6-2e6f-45e6-9489-d93a8f3f9fc6.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-5dcb2dab-ec05-425b-9fe1-02b5fedd3221.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-60182123-31a2-48fa-afcc-5d2ae5be2292.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-6384fdfe-d899-4c52-b724-94ba8f42e149.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-a7661d5f-61b8-45ef-98e8-0fe0ecd0d6ac.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-ab170fc7-d2cd-476a-b835-045d3535ebe7.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-c14cfc29-c181-4dc6-a060-5f82b241edc2.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-c37fe5eb-8790-4814-8976-c1556e44f278.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-c8993c36-11a1-4f03-94dd-4b7c1d877b8a.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-d0909f0c-430f-4659-a755-13a916733ffa.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-e0c60731-50bb-4ddf-8617-2847c68fb44e.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/codex-clipboard-f41854ac-3124-4d46-a7b8-e61d1f3c01a0.png",
+      "exists": true,
+      "matches": true
+    },
+    {
+      "path": "references/SOURCES.txt",
+      "exists": true,
+      "matches": true
+    }
+  ],
+  "stl_files": [
+    {
+      "path": "project/radial37_v2/STL/arched_dial_v2.stl",
+      "bytes": 3570084,
+      "triangles": 71400,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/radial37_v2/STL/case_v2.stl",
+      "bytes": 444084,
+      "triangles": 8880,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/radial37_v2/STL/caseback_v2.stl",
+      "bytes": 335884,
+      "triangles": 6716,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/radial37_v3/STL/back_FINISHED_reference.stl",
+      "bytes": 3140334,
+      "triangles": 62805,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/radial37_v3/STL/back_PRINT_STOCK_HOLD.stl",
+      "bytes": 84,
+      "triangles": 0,
+      "binary_length_valid": true,
+      "empty": true
+    },
+    {
+      "path": "project/radial37_v3/STL/carrier_POLYMER_fit.stl",
+      "bytes": 84,
+      "triangles": 0,
+      "binary_length_valid": true,
+      "empty": true
+    },
+    {
+      "path": "project/radial37_v3/STL/case_FINISHED_reference.stl",
+      "bytes": 2951684,
+      "triangles": 59032,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/radial37_v3/STL/case_PRINT_STOCK_HOLD.stl",
+      "bytes": 84,
+      "triangles": 0,
+      "binary_length_valid": true,
+      "empty": true
+    },
+    {
+      "path": "project/radial37_v3/STL/center_dial_BRASS_0p4.stl",
+      "bytes": 116484,
+      "triangles": 2328,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/radial37_v3/STL/chapter_fine_VENDOR_REVIEW.stl",
+      "bytes": 3415184,
+      "triangles": 68302,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/STL/case_study.stl",
+      "bytes": 395884,
+      "triangles": 7916,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/STL/caseback_study.stl",
+      "bytes": 153484,
+      "triangles": 3068,
+      "binary_length_valid": true,
+      "empty": false
+    },
+    {
+      "path": "project/STL/dial_study.stl",
+      "bytes": 38284,
+      "triangles": 764,
+      "binary_length_valid": true,
+      "empty": false
+    }
+  ],
+  "python_syntax": [
+    {
+      "path": "project/src/blender_study.py",
+      "syntax": "pass"
+    },
+    {
+      "path": "project/src/caseback_study.py",
+      "syntax": "pass"
+    },
+    {
+      "path": "project/src/case_study.py",
+      "syntax": "pass"
+    },
+    {
+      "path": "project/src/dial_study.py",
+      "syntax": "pass"
+    },
+    {
+      "path": "project/src/geometry.py",
+      "syntax": "pass"
+    },
+    {
+      "path": "project/src/watch_study.py",
+      "syntax": "pass"
+    },
+    {
+      "path": "project/radial37_v2/src/radial37_v2.py",
+      "syntax": "pass"
+    },
+    {
+      "path": "project/radial37_v3/src/parameters.py",
+      "syntax": "pass"
+    },
+    {
+      "path": "project/radial37_v3/src/radial37_v3.py",
+      "syntax": "pass"
+    }
+  ]
+}
