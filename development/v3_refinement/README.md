@@ -15,3 +15,7 @@ Live Blender MCP at localhost:9876 was unreachable during this review. Backgroun
 ## Movement confirmed
 
 The owner selected Miyota 2035 on 22 October 2026. See [the adaptation record](MIYOTA_2035_ADAPTATION.md) and machine-readable component inputs. Original V3 geometry is still 5Y20-based. Closure remains pending; live connector remains unreachable after reported startup.
+
+## Live fit study 01 completed
+
+The official MCP connection is restored. [V3/2035 fit study 01](FIT_STUDY_01.md) now contains a new native scene, carrier and dial proposals, nominal collision/clearance checks, two independently checked review exports and an assembled preview with the provisional crystal visible. The case/back and case stem bore remain unresolved; this is not a print release.

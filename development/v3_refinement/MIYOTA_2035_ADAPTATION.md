@@ -32,3 +32,7 @@ The standard 2035 is a three-hand movement. Retaining two-hand styling requires 
 No geometry adaptation or manufacturing approval is claimed by this record. Live scene editing is pending restoration of the existing Blender MCP connection, which still refused connections after the owner reported starting it. Component research and repository documentation proceeded independently.
 
 Sources: [Miyota product page](https://miyotamovement.com/product/2035/), [three-page manufacturer drawing](https://miyotamovement.com/uploads/product/product_4tdsbpNVQi1WcE5lUw.pdf), [manufacturer specification](https://miyotamovement.com/uploads/product/product_pgSIG6yWb0akqcUhDf.pdf), checked 22 October 2026. Manufacturer PDFs are referenced by URL and not redistributed under the project licence.
+
+## Subsequent fit-study checkpoint
+
+The live connector has since been restored. Partial geometry adaptation and verified review exports now exist in [fit study 01](FIT_STUDY_01.md). Earlier statements above describe the pre-adaptation state; the original archive remains unchanged. Case/stem-bore correction and closure are still pending.

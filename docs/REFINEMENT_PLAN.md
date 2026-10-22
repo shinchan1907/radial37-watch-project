@@ -35,3 +35,7 @@ V3 is the owner-selected working baseline, 22 October 2026. Preserve its radial 
 ## Current status
 
 Analysis and independent audit are complete. The public repository begins as a development archive, not a print release. Export recovery can proceed independently of the open movement and closure decisions. Final interface design depends on those decisions and exact component data.
+
+## Latest progress — 22 October 2026
+
+Official Blender MCP is restored. Partial 2035 movement/carrier/dial/hand adaptation is now built in fit study 01. New meshes pass topology and four nominal collision checks; the shorter minute-hand option meets the provisional dome-clearance target. Two review exports independently reimport cleanly. These checks do not close component, case-bore, closure, manufacturing or physical-fit gates.

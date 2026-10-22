@@ -4,9 +4,9 @@ An open hardware watch project aiming for an affordable, classy everyday watch: 
 
 **Active development baseline: V3**, selected by the owner on 22 October 2026. V1 and V2 are preserved as design history. V3 is a substantial assembly study, but the archived files are **not ready for a metal-print order**.
 
-![Earlier V2 appearance study](project/radial37_v2/radial37_v2_hero.png)
+![Current V3 2035 fit study](development/v3_refinement/v3_2035_fit_01_preview.png)
 
-The image illustrates the earlier V2 appearance; it is not a photograph or a validated V3 assembly. Its crystal is hidden for geometry review.
+The image shows the current V3/2035 fit study with a provisional crystal. It is a render of development geometry, not a manufactured or validated watch.
 
 ## Start here
 
@@ -25,7 +25,7 @@ The image illustrates the earlier V2 appearance; it is not a photograph or a val
 | Lug-to-lug | Approximately 44 mm |
 | Strap width | 18 mm |
 | Dial | 60 curved radial webs, with 12 emphasized hour positions |
-| Movement | Miyota 2035 confirmed by owner; archived V3 still uses a 5Y20 envelope and requires adaptation |
+| Movement | Miyota 2035 confirmed; partial fit adaptation exists, with case/interfaces still unresolved |
 | Crystal | 33 mm candidate domed acrylic envelope in V3; exact purchased part unresolved |
 | Metal | Stainless steel or titanium; process and supplier acceptance unresolved |
 | Back | V3 models a thread; archive later requested a quarter-turn bayonet. Final choice pending owner confirmation |
@@ -58,3 +58,5 @@ Contributions should keep V3's design intent, document changed dimensions, and i
 Verify original local archive integrity with `python tools/verify_archive.py . --require-references`; public clones can omit `--require-references` because third-party reference assets are excluded.
 
 [Confirmed Miyota 2035 adaptation inputs](development/v3_refinement/MIYOTA_2035_ADAPTATION.md) — selected 22 October 2026; geometry conversion pending.
+
+**Latest working scene:** `development/v3_refinement/radial37_v3_2035_fit_01.blend`. Read the [fit-study status and checks](development/v3_refinement/FIT_STUDY_01.md) before using it. The archived V3 scene remains the preserved historical baseline.

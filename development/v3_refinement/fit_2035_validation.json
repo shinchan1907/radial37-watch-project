@@ -1,0 +1,141 @@
+{
+  "scene": "RADIAL 37 | V3 2035 FIT STUDY 01",
+  "manufacturing_release": false,
+  "parts": [
+    {
+      "name": "GEO-2035-movement-envelope",
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "volume_mm3": 775.3323960034,
+      "vertices": 358,
+      "faces": 181,
+      "world_bounds_dimensions_mm": [
+        15.300000190734863,
+        18.5,
+        3.1500003337860107
+      ]
+    },
+    {
+      "name": "GEO-2035-carrier-fit",
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "volume_mm3": 573.0443304829824,
+      "vertices": 1041,
+      "faces": 528,
+      "world_bounds_dimensions_mm": [
+        28.799999237060547,
+        30.249999046325684,
+        2.300000309944153
+      ]
+    },
+    {
+      "name": "GEO-2035-center-dial-fit",
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "volume_mm3": 108.20383870780482,
+      "vertices": 1537,
+      "faces": 776,
+      "world_bounds_dimensions_mm": [
+        18.5,
+        18.5,
+        1.8999998569488525
+      ]
+    },
+    {
+      "name": "GEO-2035-stem-envelope",
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "volume_mm3": 8.26876609362608,
+      "vertices": 384,
+      "faces": 194,
+      "world_bounds_dimensions_mm": [
+        13.0,
+        0.8999999761581421,
+        0.9000003337860107
+      ]
+    },
+    {
+      "name": "GEO-2035-seconds-arbor-envelope",
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "volume_mm3": 0.050256513231537875,
+      "vertices": 384,
+      "faces": 194,
+      "world_bounds_dimensions_mm": [
+        0.20000000298023224,
+        0.20000000298023224,
+        1.6000003814697266
+      ]
+    }
+  ],
+  "intersections": [
+    {
+      "a": "GEO-2035-movement-envelope",
+      "b": "GEO-FIT2035-V3 ARCHES | fine-detail metal chapter",
+      "nominal_interference_mm3": 0.0,
+      "nominal_pass": true
+    },
+    {
+      "a": "GEO-2035-movement-envelope",
+      "b": "GEO-2035-carrier-fit",
+      "nominal_interference_mm3": 0.0,
+      "nominal_pass": true
+    },
+    {
+      "a": "GEO-2035-carrier-fit",
+      "b": "GEO-FIT2035-V3 ARCHES | fine-detail metal chapter",
+      "nominal_interference_mm3": 0.0,
+      "nominal_pass": true
+    },
+    {
+      "a": "GEO-2035-center-dial-fit",
+      "b": "GEO-FIT2035-V3 ARCHES | fine-detail metal chapter",
+      "nominal_interference_mm3": 0.0,
+      "nominal_pass": true
+    }
+  ],
+  "boolean_positive_control": {
+    "self_intersection_volume_mm3": 775.3323960034,
+    "expected_volume_mm3": 775.3323960034,
+    "pass": true
+  },
+  "hand_crystal_analytical_checks": [
+    {
+      "name": "V3 HOUR HAND | envelope",
+      "max_radius_mm": 9.383197103782173,
+      "min_gap_to_provisional_crystal_mm": 1.1221875729349389,
+      "target_gap_mm": 0.3,
+      "nominal_target_pass": true
+    },
+    {
+      "name": "V3 HOUR HAND | envelope red tip",
+      "max_radius_mm": 9.15167338269883,
+      "min_gap_to_provisional_crystal_mm": 1.1401113079190361,
+      "target_gap_mm": 0.3,
+      "nominal_target_pass": true
+    },
+    {
+      "name": "V3 MINUTE HAND | envelope",
+      "max_radius_mm": 12.983828310091567,
+      "min_gap_to_provisional_crystal_mm": 0.36256983452752856,
+      "target_gap_mm": 0.3,
+      "nominal_target_pass": true
+    },
+    {
+      "name": "V3 MINUTE HAND | envelope red tip",
+      "max_radius_mm": 12.76510609998355,
+      "min_gap_to_provisional_crystal_mm": 0.38327205094665295,
+      "target_gap_mm": 0.3,
+      "nominal_target_pass": true
+    }
+  ],
+  "original_13p8_minute_tip_gap_at_proposed_z_mm": 0.18996875000000024,
+  "holds": [
+    "Case/back topology remains invalid",
+    "Existing case stem bore remains 0.56 mm below the proposed 2035 axis",
+    "Closure choice pending",
+    "Exact purchased movement perimeter/hand heights and crystal inner profile pending",
+    "Carrier floor 0.75 mm is a fit-study feature and needs process validation",
+    "No water resistance or metal-order release"
+  ]
+}

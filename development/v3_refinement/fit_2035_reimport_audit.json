@@ -1,0 +1,40 @@
+[
+  {
+    "path": "carrier_2035_fit_REVIEW_ONLY.stl",
+    "objects": [
+      {
+        "name": "carrier_2035_fit_REVIEW_ONLY",
+        "dimensions_mm": [
+          28.799999,
+          30.25,
+          2.3
+        ],
+        "vertices": 1041,
+        "faces": 2078,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "center_dial_2035_fit_REVIEW_ONLY.stl",
+    "objects": [
+      {
+        "name": "center_dial_2035_fit_REVIEW_ONLY",
+        "dimensions_mm": [
+          18.5,
+          18.5,
+          1.9
+        ],
+        "vertices": 1537,
+        "faces": 3074,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  }
+]

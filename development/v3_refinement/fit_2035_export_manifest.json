@@ -1,0 +1,42 @@
+[
+  {
+    "file": "development/v3_refinement/STL_2035_FIT_REVIEW/carrier_2035_fit_REVIEW_ONLY.stl",
+    "bytes": 103984,
+    "sha256": "bc354e80db6e9c5bd225f33cd62b863fc50279e70dd702299409e4bada3b2bf6",
+    "triangles": 2078,
+    "source_topology": {
+      "name": "GEO-2035-carrier-fit",
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "volume_mm3": 573.0443304829824,
+      "vertices": 1041,
+      "faces": 528,
+      "world_bounds_dimensions_mm": [
+        28.799999237060547,
+        30.249999046325684,
+        2.300000309944153
+      ]
+    },
+    "manufacturing_release": false
+  },
+  {
+    "file": "development/v3_refinement/STL_2035_FIT_REVIEW/center_dial_2035_fit_REVIEW_ONLY.stl",
+    "bytes": 153784,
+    "sha256": "6c543a925cc767163120575dfb659b3b3dfca91778d06f5088a47f9430e37f38",
+    "triangles": 3074,
+    "source_topology": {
+      "name": "GEO-2035-center-dial-fit",
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "volume_mm3": 108.20383870780482,
+      "vertices": 1537,
+      "faces": 776,
+      "world_bounds_dimensions_mm": [
+        18.5,
+        18.5,
+        1.8999998569488525
+      ]
+    },
+    "manufacturing_release": false
+  }
+]

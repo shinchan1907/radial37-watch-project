@@ -126,3 +126,7 @@ Export recovery is recorded in `development/v3_refinement/`: four nonempty, topo
 ## Confirmed movement decision
 
 The owner confirmed Miyota 2035. Verified manufacturer inputs and adaptation implications are recorded in `development/v3_refinement/MIYOTA_2035_ADAPTATION.md`. V3 remains the baseline; its geometry is not yet converted to the new movement. The closure choice remains pending.
+
+## Subsequent V3 refinement checkpoint
+
+The live MCP connection is restored and a separate V3/2035 fit study now exists. It contains a new movement envelope, carrier and dial proposal, repositioned appearance hands/stem/crown and a shorter minute-hand option. Five new meshes pass topology/component checks, four nominal collision checks pass, and the assumed dome yields approximately 0.36 mm minimum vertical minute-hand clearance. Two review STLs independently reimport cleanly. This is partial adaptation: the copied case/back remain invalid and the case stem bore remains 0.56 mm low. See `development/v3_refinement/FIT_STUDY_01.md`.

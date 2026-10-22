@@ -69,6 +69,7 @@
     "Dial feet fastening and insertion clearance",
     "Caseback closure and metal-print tolerances"
   ],
-  "geometry_updated": false,
-  "manufacturing_release": false
+  "geometry_updated": true,
+  "manufacturing_release": false,
+  "geometry_status": "partial fit study 01; original V3 preserved; case/stem bore and closure unresolved"
 }
