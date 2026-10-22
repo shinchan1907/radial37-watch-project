@@ -118,3 +118,7 @@ My recommendation is to preserve V3 as the design foundation, restore trustworth
 - [Miyota 5Y20 product, specification and drawings](https://miyotamovement.com/product/5Y20/) — checked 22 October 2026.
 - [JLC3DP design guideline](https://jlc3dp.com/help/article/3d-printing-design-guideline) — checked 22 October 2026; page dated 24 August 2026. Process guidance is not an approval of this project.
 - [Carter Hurd watch inspiration](https://altapowderdog.wixsite.com/my-site/watches) — archive attribution; page fetch timed out during this review.
+
+## First V3 refinement action completed
+
+Export recovery is recorded in `development/v3_refinement/`: four nonempty, topology-clean review exports from the saved V3 scene, including the formerly empty carrier and historical back-stock export. The source chapter is exported afresh rather than relying on its stale archived STL. Independent reimport passed all four. The case, threaded back and case-stock meshes are deliberately rejected by the export gate. No original geometry changed and none of these files is released for manufacturing.

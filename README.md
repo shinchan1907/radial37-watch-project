@@ -50,3 +50,9 @@ Original project design materials, generation scripts and project documentation 
 Carter Hurd's watch project is acknowledged as visual inspiration. Third-party reference screenshots and manufacturer PDFs remain in the local archive and are intentionally excluded from this public repository; source links and original checksum entries are retained. No licence to third-party work or endorsement is implied.
 
 Contributions should keep V3's design intent, document changed dimensions, and include independently checked exports. This repository currently contains development studies rather than a qualified wearable product.
+
+## V3 recovery checkpoint
+
+[Review-only recovered parts and audit](development/v3_refinement/README.md) are available. The carrier, current chapter, center dial and historical back-stock model have been exported from the saved V3 scene and independently reimported. Case/back failures remain unresolved. No original geometry was changed.
+
+Verify original local archive integrity with `python tools/verify_archive.py . --require-references`; public clones can omit `--require-references` because third-party reference assets are excluded.

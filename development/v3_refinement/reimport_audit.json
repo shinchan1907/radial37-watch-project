@@ -1,0 +1,78 @@
+[
+  {
+    "path": "STL_REVIEW_ONLY/back_stock_v3_recovered_REVIEW_ONLY.stl",
+    "objects": [
+      {
+        "name": "back_stock_v3_recovered_REVIEW_ONLY",
+        "dimensions_mm": [
+          36.200001,
+          36.200001,
+          3.05
+        ],
+        "vertices": 3840,
+        "faces": 7676,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "STL_REVIEW_ONLY/carrier_v3_recovered_REVIEW_ONLY.stl",
+    "objects": [
+      {
+        "name": "carrier_v3_recovered_REVIEW_ONLY",
+        "dimensions_mm": [
+          28.799999,
+          30.25,
+          2.3
+        ],
+        "vertices": 509,
+        "faces": 1014,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "STL_REVIEW_ONLY/center_dial_v3_recovered_REVIEW_ONLY.stl",
+    "objects": [
+      {
+        "name": "center_dial_v3_recovered_REVIEW_ONLY",
+        "dimensions_mm": [
+          18.5,
+          18.5,
+          1.7
+        ],
+        "vertices": 1164,
+        "faces": 2328,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  },
+  {
+    "path": "STL_REVIEW_ONLY/chapter_v3_recovered_REVIEW_ONLY.stl",
+    "objects": [
+      {
+        "name": "chapter_v3_recovered_REVIEW_ONLY",
+        "dimensions_mm": [
+          31.4,
+          31.4,
+          2.78
+        ],
+        "vertices": 34028,
+        "faces": 68296,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "hidden_viewport": false,
+        "hidden_render": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "status": "DEVELOPMENT REVIEW ONLY; NOT RELEASED FOR PRINTING",
+  "source_file": "project/radial37_v3/radial37_v3.blend",
+  "source_sha256": "b4b55b6b2eebdbc78b0d7d80d83c253a6a988792f015974deed94c811531abd1",
+  "method": "direct world-space mesh serialization; no selection/visibility-dependent export",
+  "units": "mm",
+  "parts": [
+    {
+      "object": "V3 CASE | finished reference, 37mm",
+      "slug": "case",
+      "dimensions_mm": [
+        36.99473571777344,
+        44.0,
+        4.181286334991455
+      ],
+      "nonmanifold_edges": 809,
+      "components": 1,
+      "signed_volume_mm3": 2602.0094857472827,
+      "released_for_printing": false,
+      "exported": false,
+      "reason": "rejected by geometry gate; no STL written"
+    },
+    {
+      "object": "V3 BACK | finished threaded, no screws",
+      "slug": "back",
+      "dimensions_mm": [
+        35.79999923706055,
+        35.79999923706055,
+        2.450000047683716
+      ],
+      "nonmanifold_edges": 24670,
+      "components": 1,
+      "signed_volume_mm3": 1853.8348462744284,
+      "released_for_printing": false,
+      "exported": false,
+      "reason": "rejected by geometry gate; no STL written"
+    },
+    {
+      "object": "V3 ARCHES | fine-detail metal chapter",
+      "slug": "chapter",
+      "dimensions_mm": [
+        31.399999618530273,
+        31.399999618530273,
+        2.7799997329711914
+      ],
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "signed_volume_mm3": 255.18207050888648,
+      "released_for_printing": false,
+      "exported": true,
+      "path": "development/v3_refinement/STL_REVIEW_ONLY/chapter_v3_recovered_REVIEW_ONLY.stl",
+      "triangles": 68296,
+      "bytes": 3414884,
+      "sha256": "f835ad632901103fedf227556d39f64b2675d8d7d491b4bfe24c0735a9c327d6"
+    },
+    {
+      "object": "V3 CENTER DIAL | brass 0.40mm",
+      "slug": "center_dial",
+      "dimensions_mm": [
+        18.5,
+        18.5,
+        1.700000286102295
+      ],
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "signed_volume_mm3": 107.79499514602698,
+      "released_for_printing": false,
+      "exported": true,
+      "path": "development/v3_refinement/STL_REVIEW_ONLY/center_dial_v3_recovered_REVIEW_ONLY.stl",
+      "triangles": 2328,
+      "bytes": 116484,
+      "sha256": "318ac839df18cb4e96fd369a2f974a5b8b0f2e08aa3c6a5e1653476550a3411f"
+    },
+    {
+      "object": "V3 CARRIER | polymer fit prototype",
+      "slug": "carrier",
+      "dimensions_mm": [
+        28.799999237060547,
+        30.25,
+        2.3000001907348633
+      ],
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "signed_volume_mm3": 636.0628928231358,
+      "released_for_printing": false,
+      "exported": true,
+      "path": "development/v3_refinement/STL_REVIEW_ONLY/carrier_v3_recovered_REVIEW_ONLY.stl",
+      "triangles": 1014,
+      "bytes": 50784,
+      "sha256": "1d021f871533acde8930bcb5e11d1bc163b5b4d2e45a4e9d2e90e7ef89e24faf"
+    },
+    {
+      "object": "V3 PRINT STOCK | case, machining required",
+      "slug": "case_stock",
+      "dimensions_mm": [
+        37.0,
+        44.0,
+        4.181286334991455
+      ],
+      "nonmanifold_edges": 101,
+      "components": 1,
+      "signed_volume_mm3": 1179.382995954062,
+      "released_for_printing": false,
+      "exported": false,
+      "reason": "rejected by geometry gate; no STL written"
+    },
+    {
+      "object": "V3 PRINT STOCK | back, machining required",
+      "slug": "back_stock",
+      "dimensions_mm": [
+        36.20000076293945,
+        36.20000076293945,
+        3.049999952316284
+      ],
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "signed_volume_mm3": 1978.1552254699834,
+      "released_for_printing": false,
+      "exported": true,
+      "path": "development/v3_refinement/STL_REVIEW_ONLY/back_stock_v3_recovered_REVIEW_ONLY.stl",
+      "triangles": 7676,
+      "bytes": 383884,
+      "sha256": "fd37168387991c17c81e410fbe048a228bcf205e58a0dae8c597d2d380c74285"
+    }
+  ]
+}
