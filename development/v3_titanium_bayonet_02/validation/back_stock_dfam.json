@@ -1,0 +1,111 @@
+{
+  "file": "C:/Users/Sunny gupta/Downloads/Radial37_Watch_Project/development/v3_titanium_bayonet_02/STL_PRINT_STOCK/back_PRINT_STOCK.stl",
+  "mesh": {
+    "bbox_mm": [
+      37.4,
+      37.4,
+      4.8
+    ],
+    "volume_mm3": 3648.0,
+    "surface_area_mm2": 3018.9,
+    "triangle_count": 2068,
+    "watertight": true,
+    "euler_number": 2,
+    "body_count": 1
+  },
+  "scale": {
+    "bbox_diagonal_mm": 53.1089,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "overhangs": {
+    "angle_limit_used_deg": 45.0,
+    "down_facing_area_below_limit_mm2": 0.0,
+    "down_facing_area_below_limit_pct": 0.0,
+    "face_count_below_limit": 0,
+    "down_facing_angle_histogram_mm2": {},
+    "largest_faces_below_limit": []
+  },
+  "wall_thickness": {
+    "samples_valid": 2068,
+    "min_mm": 2.3,
+    "p05_mm": 2.3,
+    "p25_mm": 3.011,
+    "median_mm": 3.1,
+    "max_mm": 37.399,
+    "thinnest_samples": [
+      {
+        "location_xyz": [
+          13.06,
+          -3.48,
+          1.9
+        ],
+        "thickness_mm": 2.3
+      },
+      {
+        "location_xyz": [
+          13.06,
+          -3.48,
+          1.9
+        ],
+        "thickness_mm": 2.3
+      },
+      {
+        "location_xyz": [
+          3.54,
+          12.47,
+          1.9
+        ],
+        "thickness_mm": 2.3
+      },
+      {
+        "location_xyz": [
+          3.54,
+          -12.47,
+          1.9
+        ],
+        "thickness_mm": 2.3
+      },
+      {
+        "location_xyz": [
+          13.51,
+          0.46,
+          1.9
+        ],
+        "thickness_mm": 2.3
+      },
+      {
+        "location_xyz": [
+          3.26,
+          13.12,
+          1.9
+        ],
+        "thickness_mm": 2.3
+      },
+      {
+        "location_xyz": [
+          3.26,
+          13.12,
+          1.9
+        ],
+        "thickness_mm": 2.3
+      },
+      {
+        "location_xyz": [
+          -13.45,
+          11.4,
+          1.9
+        ],
+        "thickness_mm": 2.3
+      }
+    ]
+  },
+  "support_volume": {
+    "angle_limit_used_deg": 45.0,
+    "estimated_support_volume_mm3": 0.0,
+    "part_volume_mm3": 3648.0,
+    "support_to_part_ratio_pct": 0.0,
+    "method": "prism from face centroid to build plate; coarse upper-bound estimate"
+  },
+  "partial": false
+}

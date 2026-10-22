@@ -10,3 +10,8 @@
 /README_FIRST.txt -text
 /project/** -text
 /references/** -text
+
+# Preserve exact validated CAD bytes; stable source line endings
+/development/v3_titanium_bayonet_02/STEP/*.step -text -diff
+/development/v3_titanium_bayonet_02/src/*.py text eol=lf
+/development/v3_titanium_bayonet_02/validation/*.json text eol=lf

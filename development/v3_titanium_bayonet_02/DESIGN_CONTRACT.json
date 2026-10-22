@@ -1,0 +1,26 @@
+{
+  "revision": "v3_titanium_bayonet_02",
+  "date": "2026-10-22",
+  "baseline": "archived V3 preserved",
+  "movement": "Miyota 2035",
+  "titanium_prints": [
+    "case",
+    "back",
+    "single-piece dial"
+  ],
+  "case_back": "three-tab 90-degree bayonet with 0.10 mm push release",
+  "precision_finishing": "explicitly authorized by owner; quote not received",
+  "dial_insert": false,
+  "dial_pattern": "16 broad curved webs, changed from archived 60",
+  "wordmark": [
+    "Indo",
+    "Constantin"
+  ],
+  "case_od_mm": 37,
+  "lug_to_lug_mm": 44,
+  "strap_gap_mm": 18.2,
+  "dial_center_finished_mm": 0.4,
+  "dial_outer_rail_finished_mm": 0.85,
+  "manufacturing_release": false,
+  "quote_sent": false
+}

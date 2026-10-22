@@ -1,0 +1,12 @@
+cadgen[snapshot]==0.7.10
+cadquery==2.8.0
+build123d==0.11.1
+cadquery-ocp==7.9.3.1.1
+trimesh==5.1.1
+numpy
+scipy
+rtree
+networkx
+lxml
+shapely
+fonttools

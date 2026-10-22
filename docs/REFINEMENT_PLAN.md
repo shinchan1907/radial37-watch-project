@@ -1,5 +1,8 @@
 # V3 refinement plan
 
+> Current update — 22 October 2026: the owner confirmed TC4 titanium, three printed parts, a monolithic dial, supplier finishing and a quarter-turn back. [Candidate 02](../development/v3_titanium_bayonet_02/README.md) supersedes pending choices below. Six new saved STEP/STL part files pass nominal geometry checks; final components, supplier capability/cost and physical validation remain open. The remainder describes the historical archive/earlier plan.
+
+
 V3 is the owner-selected working baseline, 22 October 2026. Preserve its radial design and compact proportions. Keep original files unchanged as the historical checkpoint; new work belongs in `development/v3_refinement/`.
 
 ## Decisions to reconcile

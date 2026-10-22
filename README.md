@@ -2,11 +2,11 @@
 
 An open hardware watch project aiming for an affordable, classy everyday watch: a compact 37 mm case, sculpted radial dial, slim quartz movement and domed crystal.
 
-**Active development baseline: V3**, selected by the owner on 22 October 2026. V1 and V2 are preserved as design history. V3 is a substantial assembly study, but the archived files are **not ready for a metal-print order**.
+**Active baseline: V3. Latest candidate: [titanium bayonet 02](development/v3_titanium_bayonet_02/README.md)**, updated 22 October 2026. The archived V3 files are preserved. This new candidate has three valid titanium part targets and separate thick machining preforms; it is **QUOTE REVIEW ONLY, not released for an order**.
 
-![Current V3 2035 fit study](development/v3_refinement/v3_2035_fit_01_preview.png)
+![Titanium bayonet candidate](development/v3_titanium_bayonet_02/preview.png)
 
-The image shows the current V3/2035 fit study with a provisional crystal. It is a render of development geometry, not a manufactured or validated watch.
+Owner-confirmed: Miyota 2035, quarter-turn bayonet, exactly three titanium prints and a single-piece dial, with supplier precision finishing included in the quote. The current candidate has 16 broad curved webs, a machined thin center/outer rail, rounded beveled lugs, pin holes and laser “Indo / Constantin” artwork. [Dimensions, finishing and release holds](development/v3_titanium_bayonet_02/MANUFACTURING_REVIEW.md) · [Saved-file checks](development/v3_titanium_bayonet_02/validation/RESULTS.md) · [Quote request](development/v3_titanium_bayonet_02/QUOTE_REQUEST.txt).
 
 ## Start here
 
@@ -24,22 +24,22 @@ The image shows the current V3/2035 fit study with a provisional crystal. It is 
 | Case diameter | 37 mm |
 | Lug-to-lug | Approximately 44 mm |
 | Strap width | 18 mm |
-| Dial | 60 curved radial webs, with 12 emphasized hour positions |
-| Movement | Miyota 2035 confirmed; partial fit adaptation exists, with case/interfaces still unresolved |
+| Dial | Single-piece titanium; current candidate has 16 broad curved webs and 12 laser hour indices |
+| Movement | Miyota 2035 confirmed; nominal envelope checks pass in candidate 02; actual component fit pending |
 | Crystal | 33 mm candidate domed acrylic envelope in V3; exact purchased part unresolved |
-| Metal | Stainless steel or titanium; process and supplier acceptance unresolved |
-| Back | V3 models a thread; archive later requested a quarter-turn bayonet. Final choice pending owner confirmation |
+| Metal | TC4 titanium print preforms plus precision machining; supplier acceptance and cost pending |
+| Back | Owner-confirmed 90-degree bayonet; new nominal motion checks pass; physical retention/wear pending |
 | Cost / finish | Affordable, restrained and comfortable; no priced bill of materials yet |
 
 ## Status and units
 
-V3 case and back have invalid topology. Three archived V3 STLs contain zero triangles. Filenames containing `FINISHED`, `VENDOR_REVIEW` or `PRINT_STOCK` do not indicate approval. Do not order them.
+Archived V3 case and back have invalid topology. Three archived V3 STLs contain zero triangles. Filenames containing `FINISHED`, `VENDOR_REVIEW` or `PRINT_STOCK` do not indicate approval. Do not order them.
 
 Blender geometry uses numeric millimetres and metric `scale_length=0.001`. STL has no unit metadata: import as millimetres and verify the 37 mm case diameter. Metal shell height, individual part height and complete assembled thickness are different measurements.
 
 ## Rebuilding
 
-Blender sources use `bpy`, `bmesh` and `mathutils`; they are not normal standalone Python programs. The archive was inspected with Blender 5.2.2 LTS. Run scripts only from a working copy: they create scenes and overwrite exports beside their source. V3 also imports adjacent `parameters.py`, so add that `src` directory to Python's import path. The old cadgen/build123d sketches are historical and are not equivalent to the later Blender assembly. There is no STEP release.
+Blender sources use `bpy`, `bmesh` and `mathutils`; they are not normal standalone Python programs. The archive was inspected with Blender 5.2.2 LTS. Run scripts only from a working copy: they create scenes and overwrite exports beside their source. V3 also imports adjacent `parameters.py`, so add that `src` directory to Python's import path. The old cadgen/build123d sketches are historical and are not equivalent to the later Blender assembly. Native STEP quote candidates now exist separately in `development/v3_titanium_bayonet_02/STEP`; there is no manufacturing release.
 
 Existing scripts, saved scenes, STL exports and clearance reports are not yet one synchronized, reproducible build. See the refinement plan before regenerating files.
 
@@ -57,6 +57,8 @@ Contributions should keep V3's design intent, document changed dimensions, and i
 
 Verify original local archive integrity with `python tools/verify_archive.py . --require-references`; public clones can omit `--require-references` because third-party reference assets are excluded.
 
-[Confirmed Miyota 2035 adaptation inputs](development/v3_refinement/MIYOTA_2035_ADAPTATION.md) — selected 22 October 2026; geometry conversion pending.
+[Confirmed Miyota 2035 adaptation inputs](development/v3_refinement/MIYOTA_2035_ADAPTATION.md) — selected 22 October 2026; historical adaptation inputs.
 
-**Latest working scene:** `development/v3_refinement/radial37_v3_2035_fit_01.blend`. Read the [fit-study status and checks](development/v3_refinement/FIT_STUDY_01.md) before using it. The archived V3 scene remains the preserved historical baseline.
+**Earlier fit-study scene:** `development/v3_refinement/radial37_v3_2035_fit_01.blend`. Read the [fit-study status and checks](development/v3_refinement/FIT_STUDY_01.md) before using it. The archived V3 scene remains the preserved historical baseline.
+
+**Latest working scene:** `development/v3_titanium_bayonet_02/radial37_titanium_bayonet_02.blend`. Consult its README before using any exports.

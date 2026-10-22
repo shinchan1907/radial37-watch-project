@@ -1,0 +1,316 @@
+{
+  "status": "QUOTE REVIEW ONLY; NO MANUFACTURING RELEASE",
+  "source_sha256": "156972f66bf7a6637ff1cc37a99bba0cdf4faecc1c651b73c332782e9ca66c46",
+  "saved_step_hashes": {
+    "STEP/case_PRINT_STOCK.step": "a001eddd7e8106cd96e078fc8cba42d43d7aaf77b9c114ac96ccdbb146a19ebf",
+    "STEP/case_FINISHED_REFERENCE.step": "42cd03c91b00a2494b93f3726cf4384e6ad207e749b15f5d986635cf5abfcfa2",
+    "STEP/back_PRINT_STOCK.step": "8a30d504abf6eb8585c905513167ef91a36a1c7a318124e1375902d50f893f69",
+    "STEP/back_FINISHED_REFERENCE.step": "3cf41536c378cfc52a127932f2681f230e946cea75f082e6f43890b953dc3751",
+    "STEP/dial_PRINT_STOCK.step": "8e8a9202256d4b415cb2a2d1225497a06ee237084a1060dc7bae9cff0ecd0f41",
+    "STEP/dial_FINISHED_REFERENCE.step": "9b2aad97b1efdbce9aa8e91b53eabd3aea7fe884e53ac822bbdb068d71145ab4"
+  },
+  "saved_meshes": {
+    "case_PRINT_STOCK": {
+      "watertight": true,
+      "is_volume": true,
+      "body_count": 1,
+      "triangles": 25982,
+      "dimensions_mm": [
+        37.79999923706055,
+        44.79999923706055,
+        6.900000333786011
+      ],
+      "sha256": "82016f9409790ba8fa6e8a7b6046229c8d923ea6ff6ab989fd4482aea119fae1"
+    },
+    "case_FINISHED_REFERENCE": {
+      "watertight": true,
+      "is_volume": true,
+      "body_count": 1,
+      "triangles": 26482,
+      "dimensions_mm": [
+        37.0,
+        44.0,
+        6.099999785423279
+      ],
+      "sha256": "3bf7132122408882301dba15564d443f55ef586532eb5fad32146e0f90e72142"
+    },
+    "back_PRINT_STOCK": {
+      "watertight": true,
+      "is_volume": true,
+      "body_count": 1,
+      "triangles": 2068,
+      "dimensions_mm": [
+        37.400001525878906,
+        37.400001525878906,
+        4.800000101327896
+      ],
+      "sha256": "2f978f8522b4b7e54f3875e3abedc45732de77b0597e8e5896920223a9feadf2"
+    },
+    "back_FINISHED_REFERENCE": {
+      "watertight": true,
+      "is_volume": true,
+      "body_count": 1,
+      "triangles": 2516,
+      "dimensions_mm": [
+        36.599998474121094,
+        36.599998474121094,
+        3.700000047683716
+      ],
+      "sha256": "b22d09d834d849e3a2dafb376816a1e1fe922669ddcda0611cd01dfbe7578111"
+    },
+    "dial_PRINT_STOCK": {
+      "watertight": true,
+      "is_volume": true,
+      "body_count": 1,
+      "triangles": 964,
+      "dimensions_mm": [
+        32.20000076293945,
+        32.20000076293945,
+        3.6999998092651367
+      ],
+      "sha256": "a3010c0f5739839ee1829359bb58bc5301a30e4318365f93b261825e95dae5bc"
+    },
+    "dial_FINISHED_REFERENCE": {
+      "watertight": true,
+      "is_volume": true,
+      "body_count": 1,
+      "triangles": 7012,
+      "dimensions_mm": [
+        31.399999618530273,
+        31.393905639648438,
+        2.647709846496582
+      ],
+      "sha256": "4cb31bcb16cfcc9034c89d491bf0777876588a2390b34d3b4c2f7539f0402d3f"
+    }
+  },
+  "sampled_motion_poses": [
+    {
+      "angle_deg": 0,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 5,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 10,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 15,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 20,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 25,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 30,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 35,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 40,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 45,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 50,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 55,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 60,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 65,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 70,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 75,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 80,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 85,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 90,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 0,
+      "z_mm": -3,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 0,
+      "z_mm": -2,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 0,
+      "z_mm": -1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 0,
+      "z_mm": 0,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 0,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 90,
+      "z_mm": 0,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 90,
+      "z_mm": 0.025,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 90,
+      "z_mm": 0.05,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 90,
+      "z_mm": 0.075,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle_deg": 90,
+      "z_mm": 0.1,
+      "overlap_mm3": 0.0
+    }
+  ],
+  "all_nominal_poses_clear": true,
+  "nominal_intersections_mm3": {
+    "dial_case": 0.0,
+    "dial_back": 0.0,
+    "movement_dial": 0.0,
+    "movement_carrier": 0.0,
+    "carrier_dial": 0.0,
+    "carrier_case": 0.0,
+    "carrier_back_closed": 0.0,
+    "carrier_back_pushed": 0.0,
+    "stem_dial": 0.0,
+    "stem_case": 0.0
+  },
+  "all_nominal_component_pairs_clear": true,
+  "finished_material_outside_stock_mm3": {
+    "case": 0.0,
+    "back": 0.0,
+    "dial": 0.0
+  },
+  "finished_targets_inside_stock": true,
+  "positive_retention_controls": {
+    "reverse_88deg_without_push_overlap_mm3": 0.05031064283739606,
+    "overturn_92deg_overlap_mm3": 0.6192079120251883,
+    "pull_locked_back_down_overlap_mm3": 0.4257054395029476
+  },
+  "preload_space": {
+    "back_support_top_z_measured": 1.7,
+    "carrier_floor_bottom_z": 2.3,
+    "locked_gap_mm": 0.5999999999999999,
+    "pushed_gap_mm": 0.5000000000000002,
+    "candidate": "Three small compliant pads; free thickness around 0.8mm, material/load/aging qualification required",
+    "manufacturing_release": false
+  },
+  "tolerance_budget": {
+    "status": "REQUESTED FINISHING TOLERANCES; NOT YET AGREED BY SUPPLIER",
+    "spigot_radial_gap_mm": {
+      "nominal": 0.2,
+      "worst_min": 0.15,
+      "worst_max": 0.25,
+      "assumed_radius_tolerance_each": 0.025
+    },
+    "track_radial_gap_mm": {
+      "nominal": 0.2,
+      "worst_min": 0.15,
+      "worst_max": 0.25,
+      "assumed_radius_tolerance_each": 0.025
+    },
+    "dial_radial_gap_mm": {
+      "nominal": 0.2,
+      "worst_min": 0.15,
+      "worst_max": 0.25,
+      "assumed_radius_tolerance_each": 0.025
+    },
+    "detent_axial_drop_mm": {
+      "nominal": 0.1,
+      "worst_min": 0.06,
+      "worst_max": 0.14,
+      "assumed_level_tolerance_each": 0.02
+    },
+    "gasket": {
+      "nominal_installed_cs": 1.0,
+      "cs_tolerance_assumed": 0.02,
+      "groove_depth": 0.73,
+      "groove_depth_tolerance_requested": 0.01,
+      "locked_face_gap": 0.1,
+      "face_gap_tolerance_requested": 0.015,
+      "locked_squeeze_range_pct": [
+        12.755102040816324,
+        21.078431372549023
+      ],
+      "pressed_squeeze_range_pct": [
+        24.489795918367353,
+        29.41176470588236
+      ],
+      "hold": "Installed CS, compound, squeeze/load, stretch, lubrication and wear require supplier/component validation"
+    }
+  },
+  "holds": [
+    "Supplier acceptance of all finishing and supports",
+    "Exact crystal/gasket/crown/tube/hand/spring-bar specifications",
+    "Physical fit, detent release force, pull strength and wear",
+    "Full tolerance/structural review and pressure testing if water resistance is claimed"
+  ]
+}

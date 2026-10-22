@@ -1,0 +1,18 @@
+RADIAL37 — QUOTE / DFM REVIEW ONLY — DO NOT MANUFACTURE
+Revision: v3_titanium_bayonet_02, 22 October 2026
+
+Please review feasibility and give an itemized prototype quote for THREE TC4 titanium parts: case, case back and ONE-PIECE dial. No separate center insert or attached feet. Request price for one assembly and optional small batch; show setup/printing/machining/finish/inspection separately. Do not begin production.
+
+Use *_PRINT_STOCK.step and matching stock STL for the proposed preforms; units mm. *_FINISHED_REFERENCE.step defines proposed finish-machining targets, not printable thin-wall files. Assembly STEP shows orientation. Read MANUFACTURING_REVIEW.md and BOM.md: several purchased component fits are not yet frozen.
+
+Required scope: print orientation/support planning; stress relief; complete support/powder removal; precise machining of crystal seat, crown/tube and strap-pin holes, three bayonet tracks/tabs/stop pockets, seal groove/mating faces, dial center/feet/bore/outer rail and curved wave faces; deburr; satin surfaces/polished bevels; laser wordmark and hour indices after finishing; dimensional inspection report.
+
+Please specifically confirm:
+1. Is all post-print machining practical with your equipment and workholding, particularly bayonet undercuts and the one-piece thin dial? Recommend changes before quoting manufacture.
+2. Are stock allowances and open slots adequate for your process and support access? Provide build orientation/support drawings and distortion/cleanup allowance recommendations.
+3. Can you meet the REQUESTED tolerances in MANUFACTURING_REVIEW.md? Return achieved capability, measurement methods, proposed datum system, minimum corner/tool radii and any inaccessible surfaces. No general print tolerance is accepted as a precision-fit tolerance.
+4. Recommend seal-face/track finishes, titanium sliding/galling treatment, compatible lubricant/coating and resulting dimensional changes. No water-resistance claim is yet made.
+5. Can the finished center remain 0.40 mm, outer rail 0.85 mm and integral feet 0.70 mm diameter without distortion? Confirm laser-mark capability on the thin center. Flag any likely yield/cost problem.
+6. Provide material certificate, inspection plan, cost, lead time and explicit exceptions. Identify whether CNC-from-solid would be more economical, but do not substitute it without owner review.
+
+The exact crystal, seals, crown/tube, hands and spring bars must be selected and critical fit dimensions finalized before order release. This packet is for capability and cost review only.

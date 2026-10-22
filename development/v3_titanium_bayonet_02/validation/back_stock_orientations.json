@@ -1,0 +1,51 @@
+{
+  "file": "C:/Users/Sunny gupta/Downloads/Radial37_Watch_Project/development/v3_titanium_bayonet_02/STL_PRINT_STOCK/back_PRINT_STOCK.stl",
+  "scale": {
+    "bbox_diagonal_mm": 53.1089,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "orientations": {
+    "angle_limit_used_deg": 45.0,
+    "pct_denominator": "total surface area",
+    "candidates": [
+      {
+        "orientation": "current_plus_z",
+        "support_area_mm2": 0.0,
+        "support_area_pct": 0.0,
+        "build_height_mm": 4.8
+      },
+      {
+        "orientation": "flip_180_x",
+        "support_area_mm2": 803.74,
+        "support_area_pct": 26.6,
+        "build_height_mm": 4.8
+      },
+      {
+        "orientation": "rot_plus_90_x",
+        "support_area_mm2": 197.19,
+        "support_area_pct": 6.5,
+        "build_height_mm": 37.4
+      },
+      {
+        "orientation": "rot_minus_90_x",
+        "support_area_mm2": 197.19,
+        "support_area_pct": 6.5,
+        "build_height_mm": 37.4
+      },
+      {
+        "orientation": "rot_plus_90_y",
+        "support_area_mm2": 197.19,
+        "support_area_pct": 6.5,
+        "build_height_mm": 37.4
+      },
+      {
+        "orientation": "rot_minus_90_y",
+        "support_area_mm2": 197.19,
+        "support_area_pct": 6.5,
+        "build_height_mm": 37.4
+      }
+    ]
+  },
+  "partial": false
+}

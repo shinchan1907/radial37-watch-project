@@ -17,3 +17,7 @@ venv/
 *.tmp
 Thumbs.db
 .DS_Store
+
+# Regenerable titanium quote build artifacts
+/development/v3_titanium_bayonet_02/build/
+**/.cadgen/

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34mm" height="34mm" viewBox="-17 -17 34 34"><title>Hour indices LASER ONLY; mm; +Y is twelve in CAD</title><g fill="black">
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(0.000000 -14.800000) rotate(-0.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(7.400000 -12.817176) rotate(30.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(12.817176 -7.400000) rotate(60.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(14.800000 -0.000000) rotate(90.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(12.817176 7.400000) rotate(120.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(7.400000 12.817176) rotate(150.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(0.000000 14.800000) rotate(180.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(-7.400000 12.817176) rotate(210.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(-12.817176 7.400000) rotate(240.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(-14.800000 0.000000) rotate(270.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(-12.817176 -7.400000) rotate(300.000000)"/>
+<rect x="-0.06" y="-0.35" width="0.12" height="0.70" transform="translate(-7.400000 -12.817176) rotate(330.000000)"/>
+</g></svg>

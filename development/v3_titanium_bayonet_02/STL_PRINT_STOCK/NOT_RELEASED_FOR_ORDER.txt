@@ -1,0 +1,1 @@
+These three stock STLs are millimetre machining preforms for quoting ONLY. Do not manufacture until supplier finishing capability, actual components and physical validation are approved. Thin finished-reference files are NOT print files.

@@ -1,5 +1,8 @@
 # Radial 37 — complete project review
 
+> Current update — 22 October 2026: the owner confirmed TC4 titanium, three printed parts, a monolithic dial, supplier finishing and a quarter-turn back. [Candidate 02](../development/v3_titanium_bayonet_02/README.md) supersedes pending choices below. Six new saved STEP/STL part files pass nominal geometry checks; final components, supplier capability/cost and physical validation remain open. The remainder describes the historical archive/earlier plan.
+
+
 Review date: 22 October 2026. Active baseline: **V3**, explicitly selected by the owner during this review. Product direction: an affordable, feasible, classy watch that people enjoy wearing, developed publicly as open hardware.
 
 ## What I understand

@@ -1,0 +1,174 @@
+{
+  "status": "QUOTE REVIEW ONLY; NOT RELEASED FOR ORDER",
+  "units": "mm",
+  "stock_measurements": {
+    "case": {
+      "stl_sha256": "82016f9409790ba8fa6e8a7b6046229c8d923ea6ff6ab989fd4482aea119fae1",
+      "dfam_report_sha256": "ea63dc22292429f6fb57f7a1132001f7b821f38da7aa813dd2744cbfb61b82d6",
+      "watertight": true,
+      "body_count": 1,
+      "minimum_sampled_wall_mm": 2.293,
+      "p05_sampled_wall_mm": 3.997,
+      "valid_wall_samples": 6000,
+      "requested_wall_samples": 6000,
+      "angle_limit_deg": 45,
+      "support_area_mm2": 153.29,
+      "jlc_published_wall_guidance_mm": ">1.5",
+      "sampled_wall_comparison": "pass for sampled stock measurements only",
+      "pcbway_wall_limit": "not independently verified; supplier review required",
+      "orientation_candidates": [
+        {
+          "orientation": "current_plus_z",
+          "support_area_mm2": 153.29,
+          "support_area_pct": 5.6,
+          "build_height_mm": 6.9
+        },
+        {
+          "orientation": "flip_180_x",
+          "support_area_mm2": 152.98,
+          "support_area_pct": 5.6,
+          "build_height_mm": 6.9
+        },
+        {
+          "orientation": "rot_plus_90_x",
+          "support_area_mm2": 315.27,
+          "support_area_pct": 11.5,
+          "build_height_mm": 44.8
+        },
+        {
+          "orientation": "rot_minus_90_x",
+          "support_area_mm2": 315.23,
+          "support_area_pct": 11.5,
+          "build_height_mm": 44.8
+        },
+        {
+          "orientation": "rot_plus_90_y",
+          "support_area_mm2": 448.38,
+          "support_area_pct": 16.4,
+          "build_height_mm": 37.8
+        },
+        {
+          "orientation": "rot_minus_90_y",
+          "support_area_mm2": 448.35,
+          "support_area_pct": 16.4,
+          "build_height_mm": 37.8
+        }
+      ]
+    },
+    "back": {
+      "stl_sha256": "2f978f8522b4b7e54f3875e3abedc45732de77b0597e8e5896920223a9feadf2",
+      "dfam_report_sha256": "bf32a7b6177ccebfec7643a939a73c56d3986586077bfefc45379c1893156ae0",
+      "watertight": true,
+      "body_count": 1,
+      "minimum_sampled_wall_mm": 2.3,
+      "p05_sampled_wall_mm": 2.3,
+      "valid_wall_samples": 2068,
+      "requested_wall_samples": 6000,
+      "angle_limit_deg": 45,
+      "support_area_mm2": 0.0,
+      "jlc_published_wall_guidance_mm": ">1.5",
+      "sampled_wall_comparison": "pass for sampled stock measurements only",
+      "pcbway_wall_limit": "not independently verified; supplier review required",
+      "orientation_candidates": [
+        {
+          "orientation": "current_plus_z",
+          "support_area_mm2": 0.0,
+          "support_area_pct": 0.0,
+          "build_height_mm": 4.8
+        },
+        {
+          "orientation": "flip_180_x",
+          "support_area_mm2": 803.74,
+          "support_area_pct": 26.6,
+          "build_height_mm": 4.8
+        },
+        {
+          "orientation": "rot_plus_90_x",
+          "support_area_mm2": 197.19,
+          "support_area_pct": 6.5,
+          "build_height_mm": 37.4
+        },
+        {
+          "orientation": "rot_minus_90_x",
+          "support_area_mm2": 197.19,
+          "support_area_pct": 6.5,
+          "build_height_mm": 37.4
+        },
+        {
+          "orientation": "rot_plus_90_y",
+          "support_area_mm2": 197.19,
+          "support_area_pct": 6.5,
+          "build_height_mm": 37.4
+        },
+        {
+          "orientation": "rot_minus_90_y",
+          "support_area_mm2": 197.19,
+          "support_area_pct": 6.5,
+          "build_height_mm": 37.4
+        }
+      ]
+    },
+    "dial": {
+      "stl_sha256": "a3010c0f5739839ee1829359bb58bc5301a30e4318365f93b261825e95dae5bc",
+      "dfam_report_sha256": "f388eb9e25c0631f72520c10ef6ef568bc3fc66fe1d9a41c80f402e44f8aa769",
+      "watertight": true,
+      "body_count": 1,
+      "minimum_sampled_wall_mm": 2.386,
+      "p05_sampled_wall_mm": 2.388,
+      "valid_wall_samples": 964,
+      "requested_wall_samples": 6000,
+      "angle_limit_deg": 45,
+      "support_area_mm2": 0.0,
+      "jlc_published_wall_guidance_mm": ">1.5",
+      "sampled_wall_comparison": "pass for sampled stock measurements only",
+      "pcbway_wall_limit": "not independently verified; supplier review required",
+      "orientation_candidates": [
+        {
+          "orientation": "current_plus_z",
+          "support_area_mm2": 0.0,
+          "support_area_pct": 0.0,
+          "build_height_mm": 3.7
+        },
+        {
+          "orientation": "flip_180_x",
+          "support_area_mm2": 0.0,
+          "support_area_pct": 0.0,
+          "build_height_mm": 3.7
+        },
+        {
+          "orientation": "rot_plus_90_x",
+          "support_area_mm2": 247.02,
+          "support_area_pct": 10.1,
+          "build_height_mm": 32.2
+        },
+        {
+          "orientation": "rot_minus_90_x",
+          "support_area_mm2": 247.02,
+          "support_area_pct": 10.1,
+          "build_height_mm": 32.2
+        },
+        {
+          "orientation": "rot_plus_90_y",
+          "support_area_mm2": 247.02,
+          "support_area_pct": 10.1,
+          "build_height_mm": 32.2
+        },
+        {
+          "orientation": "rot_minus_90_y",
+          "support_area_mm2": 247.02,
+          "support_area_pct": 10.1,
+          "build_height_mm": 32.2
+        }
+      ]
+    }
+  },
+  "source_sha256": "156972f66bf7a6637ff1cc37a99bba0cdf4faecc1c651b73c332782e9ca66c46",
+  "motion_poses_checked": 29,
+  "component_pairs_checked": 10,
+  "native_solids_checked": 6,
+  "saved_meshes_checked": 6,
+  "nominal_motion_clear": true,
+  "nominal_pairs_clear": true,
+  "targets_inside_stock": true,
+  "physical_validation": false
+}
