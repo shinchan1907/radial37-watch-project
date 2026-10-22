@@ -4,7 +4,7 @@ V3 is the owner-selected working baseline, 22 October 2026. Preserve its radial 
 
 ## Decisions to reconcile
 
-1. Movement: V3 uses 5Y20; earlier chat approved 2035. Confirm before modifying movement-dependent interfaces.
+1. Movement: owner confirmed Miyota 2035 on 22 October 2026. Adapt the archived 5Y20-based V3 interfaces using the verified component record in `development/v3_refinement/components/miyota_2035.json`.
 2. Closure: V3 has a thread; the later archive requests a bayonet. Confirm the architecture before changing the back.
 3. Exact crystal, hand set, crown/tube, gasket and strap/spring bars: choose actual parts and obtain drawings or measurements.
 4. Target delivered cost, quantity, material/finish and acceptable post-processing: these define feasibility. The archive requests print-only, but that route is not yet validated.

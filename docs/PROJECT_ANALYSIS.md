@@ -49,7 +49,7 @@ The V3 finished-back reference starts nominally at Z=0, so the proposed overall 
 
 The 5Y20 is a two-hand movement, and the manufacturer's current page confirms a 2.54 mm body height. V3 models a conservative clipped envelope, approximately 13 x 15.75 x 2.54 mm, rather than complete purchased-part CAD. The manufacturer dial drawing shows a 0.40 mm plate, 1.50 mm central hole and 0.70 mm dial feet. V3's plate follows that construction intent. Its STL measures 1.70 mm in total because the feet extend 1.30 mm below the 0.40 mm plate; this is not evidence of an accidentally 1.70 mm-thick plate.
 
-Earlier chat approved a Miyota 2035. V3's 5Y20 architecture must be explicitly reconciled with that decision; movements are not drop-in interchangeable. Hands, stem, crown, carrier and dial interfaces depend on the choice. Current appearance hands are not approved purchased parts.
+The owner reconfirmed Miyota 2035 on 22 October 2026. V3's archived 5Y20 architecture must be adapted to that selection; movements are not drop-in interchangeable. Hands, stem, crown, carrier and dial interfaces depend on the choice. Current appearance hands are not approved purchased parts.
 
 ## What V3 already solves at study level
 
@@ -122,3 +122,7 @@ My recommendation is to preserve V3 as the design foundation, restore trustworth
 ## First V3 refinement action completed
 
 Export recovery is recorded in `development/v3_refinement/`: four nonempty, topology-clean review exports from the saved V3 scene, including the formerly empty carrier and historical back-stock export. The source chapter is exported afresh rather than relying on its stale archived STL. Independent reimport passed all four. The case, threaded back and case-stock meshes are deliberately rejected by the export gate. No original geometry changed and none of these files is released for manufacturing.
+
+## Confirmed movement decision
+
+The owner confirmed Miyota 2035. Verified manufacturer inputs and adaptation implications are recorded in `development/v3_refinement/MIYOTA_2035_ADAPTATION.md`. V3 remains the baseline; its geometry is not yet converted to the new movement. The closure choice remains pending.

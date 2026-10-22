@@ -25,7 +25,7 @@ The image illustrates the earlier V2 appearance; it is not a photograph or a val
 | Lug-to-lug | Approximately 44 mm |
 | Strap width | 18 mm |
 | Dial | 60 curved radial webs, with 12 emphasized hour positions |
-| Movement | V3 uses a Miyota 5Y20 envelope; reconcile with the earlier 2035 decision before locking interfaces |
+| Movement | Miyota 2035 confirmed by owner; archived V3 still uses a 5Y20 envelope and requires adaptation |
 | Crystal | 33 mm candidate domed acrylic envelope in V3; exact purchased part unresolved |
 | Metal | Stainless steel or titanium; process and supplier acceptance unresolved |
 | Back | V3 models a thread; archive later requested a quarter-turn bayonet. Final choice pending owner confirmation |
@@ -56,3 +56,5 @@ Contributions should keep V3's design intent, document changed dimensions, and i
 [Review-only recovered parts and audit](development/v3_refinement/README.md) are available. The carrier, current chapter, center dial and historical back-stock model have been exported from the saved V3 scene and independently reimported. Case/back failures remain unresolved. No original geometry was changed.
 
 Verify original local archive integrity with `python tools/verify_archive.py . --require-references`; public clones can omit `--require-references` because third-party reference assets are excluded.
+
+[Confirmed Miyota 2035 adaptation inputs](development/v3_refinement/MIYOTA_2035_ADAPTATION.md) — selected 22 October 2026; geometry conversion pending.

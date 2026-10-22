@@ -1,0 +1,74 @@
+{
+  "component": "Miyota 2035",
+  "selection": {
+    "status": "confirmed_by_owner",
+    "date": "2026-10-22",
+    "supersedes": "5Y20 candidate for the V3 refinement; original V3 remains unchanged"
+  },
+  "sources": {
+    "product": "https://miyotamovement.com/product/2035/",
+    "drawing": "https://miyotamovement.com/uploads/product/product_4tdsbpNVQi1WcE5lUw.pdf",
+    "specification": "https://miyotamovement.com/uploads/product/product_pgSIG6yWb0akqcUhDf.pdf",
+    "drawing_sha256": "60fe3a52b4457bbb213a1989b8891e8d9420d4debbf6837a046873312d823cea",
+    "reviewed": "2026-10-22"
+  },
+  "units": "mm",
+  "verified_inputs": {
+    "movement_body_height": 3.15,
+    "nominal_catalog_envelope": [
+      18.5,
+      15.3
+    ],
+    "hands_supported": 3,
+    "battery": "SR626SW",
+    "stem_part": "065-468",
+    "stem_thread_nominal_diameter": 0.9,
+    "stem_thread_pitch": 0.225,
+    "stem_axis_below_dial_support_face": 0.85,
+    "dial_plate_thickness_nominal": 0.4,
+    "dial_plate_thickness_tolerance": 0.04,
+    "dial_center_hole_nominal_diameter": 1.2,
+    "dial_center_hole_tolerance": 0.04,
+    "dial_feet_nominal_diameter": 0.7,
+    "dial_feet_diameter_upper_tolerance": 0.01,
+    "dial_feet_projection_range": [
+      1.4,
+      1.6
+    ],
+    "dial_foot_centers_xy_stem_positive_x": [
+      [
+        -7.9,
+        -3.0
+      ],
+      [
+        8.234,
+        -1.9
+      ]
+    ],
+    "hand_fitting_hour_nominal_diameter": 1.2,
+    "hand_fitting_minute_nominal_diameter": 0.7,
+    "hand_fitting_second_nominal_diameter": 0.17
+  },
+  "stack_study_only": {
+    "assumption": "Retain V3 movement bottom Z=1.65 as a comparison datum, not an approved placement",
+    "movement_bottom_z": 1.65,
+    "movement_face_z": 4.8,
+    "dial_top_z": 5.2,
+    "stem_axis_z": 3.95,
+    "change_in_movement_height": 0.61,
+    "change_in_stem_axis_z": 0.56,
+    "seconds_arbor_nominal_top_above_dial_support_face": 1.6,
+    "seconds_arbor_top_z": 6.4
+  },
+  "not_approved": [
+    "Physical movement perimeter and carrier fit",
+    "Actual purchased movement hand-height variant",
+    "Two-hand styling with unused seconds arbor, or installation of a seconds hand",
+    "Exact purchased hand thickness and mounting heights",
+    "Crystal inner-profile clearance across full hand sweep",
+    "Dial feet fastening and insertion clearance",
+    "Caseback closure and metal-print tolerances"
+  ],
+  "geometry_updated": false,
+  "manufacturing_release": false
+}
